@@ -11,10 +11,6 @@
       "ws_url": "wss://wss.api.moonbeam.network"
     },
     {
-      "url": "https://moonbeam.public.blastapi.io",
-      "ws_url": "wss://moonbeam.public.blastapi.io"
-    },
-    {
       "url": "https://moonbeam.drpc.org",
       "ws_url": "wss://moonbeam.drpc.org"
     }
