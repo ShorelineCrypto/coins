@@ -2147,7 +2147,8 @@
   "DEV": {
     "all": {
       "1758502268": "online",
-      "1767483691": "offline"
+      "1767483691": "offline",
+      "1771248350": "online"
     },
     "by_server": {
       "_metadata": {
@@ -2196,15 +2197,18 @@
       },
       "api.dogecoinev.com:50001": {
         "1758502268": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1771248350": "online"
       },
       "api.dogecoinev.com:50002": {
         "1758502268": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1771248350": "online"
       },
       "api.dogecoinev.com:50003": {
         "1758502268": "online",
-        "1766366022": "offline"
+        "1766366022": "offline",
+        "1771248350": "online"
       },
       "api2.dogecoinev.com:50001": {
         "1758502268": "online",
@@ -9066,7 +9070,8 @@
         "1763079262": "online",
         "1767483691": "offline",
         "1768612207": "online",
-        "1771127316": "offline"
+        "1771127316": "offline",
+        "1771248350": "online"
       },
       "zet-ex-four.ewmci.online:50002": {
         "1755770395": "online",
@@ -9074,7 +9079,8 @@
         "1763079262": "online",
         "1767483691": "offline",
         "1768612207": "online",
-        "1771127316": "offline"
+        "1771127316": "offline",
+        "1771248350": "online"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1755770395": "offline"
