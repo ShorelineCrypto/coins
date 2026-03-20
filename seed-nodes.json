@@ -1,5 +1,17 @@
 [
     {
+        "name": "cheetah-seed",
+        "host": "mm2seed.shorelinecrypto.com",
+        "type": "domain",
+        "wss": false,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
         "name": "seed-node-1",
         "host": "seed01.kmdefi.net",
         "type": "domain",
