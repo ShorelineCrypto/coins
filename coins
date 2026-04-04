@@ -2562,6 +2562,8 @@
     "txfee": 10000,
     "txversion": 4,
     "overwintered": 1,
+    "version_group_id": "0x892f2085",
+    "consensus_branch_id": "0xe9ff75a6",
     "mm2": 1,
     "required_confirmations": 2,
     "avg_blocktime": 150,
@@ -6213,6 +6215,26 @@
       "type": "ERC20",
       "protocol_data": {
         "platform": "ETH",
+        "contract_address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "GALA-ERC20_OLD",
+    "name": "gala_erc20_old",
+    "fname": "Gala (OLD)",
+    "rpcport": 80,
+    "mm2": 1,
+    "wallet_only": true,
+    "chain_id": 1,
+    "decimals": 8,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
         "contract_address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA"
       }
     },
@@ -8617,6 +8639,60 @@
       "chain_variant": "LBC"
     },
     "derivation_path": "m/84'/140'"
+  },
+  {
+    "coin": "LC2",
+    "name": "litecoin2",
+    "fname": "LitecoinII",
+    "sign_message_prefix": "LitecoinII Signed Message:\n",
+    "rpcport": 9222,
+    "pubtype": 48,
+    "p2shtype": 50,
+    "wiftype": 176,
+    "txfee": 1000,
+    "dust": 5460,
+    "segwit": true,
+    "bech32_hrp": "lc2",
+    "mm2": 1,
+    "required_confirmations": 3,
+    "avg_blocktime": 150,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/2102'",
+    "links": {
+      "github": "https://github.com/litecoinII-project/litecoinII",
+      "homepage": "https://litecoinii.org"
+    }
+  },
+  {
+    "coin": "LC2-segwit",
+    "name": "litecoin2",
+    "fname": "LitecoinII",
+    "sign_message_prefix": "LitecoinII Signed Message:\n",
+    "rpcport": 9222,
+    "pubtype": 48,
+    "p2shtype": 50,
+    "wiftype": 176,
+    "txfee": 1000,
+    "dust": 5460,
+    "segwit": true,
+    "bech32_hrp": "lc2",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "LC2",
+    "mm2": 1,
+    "required_confirmations": 3,
+    "avg_blocktime": 150,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/84'/2102'",
+    "links": {
+      "github": "https://github.com/litecoinII-project/litecoinII",
+      "homepage": "https://litecoinii.org"
+    }
   },
   {
     "coin": "LCC",
@@ -12296,6 +12372,31 @@
     }
   },
   {
+    "coin": "RXD",
+    "name": "radiant",
+    "fname": "Radiant",
+    "rpcport": 7332,
+    "pubtype": 0,
+    "p2shtype": 5,
+    "wiftype": 128,
+    "txfee": 10000000,
+    "segwit": false,
+    "fork_id": "0x40",
+    "signature_version": "fork_id_rxd",
+    "mm2": 1,
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "required_confirmations": 2,
+    "avg_blocktime": 300,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/512'",
+    "links": {
+      "github": "https://github.com/Radiant-Core/Radiant-Core",
+      "homepage": "https://radiantblockchain.org"
+    }
+  },
+  {
     "coin": "SAND-ERC20",
     "name": "sand_erc20",
     "fname": "The Sandbox",
@@ -13556,6 +13657,74 @@
       "erc20_payment": 110000,
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
+    }
+  },
+  {
+    "coin": "TRX",
+    "name": "tron",
+    "fname": "TRON",
+    "mm2": 1,
+    "wallet_only": true,
+    "decimals": 6,
+    "avg_blocktime": 3,
+    "required_confirmations": 1,
+    "derivation_path": "m/44'/195'",
+    "protocol": {
+      "type": "TRX",
+      "protocol_data": {
+        "network": "Mainnet"
+      }
+    }
+  },
+  {
+    "coin": "USDT-TRC20",
+    "name": "usdt_trc20",
+    "fname": "Tether",
+    "mm2": 1,
+    "wallet_only": true,
+    "decimals": 6,
+    "derivation_path": "m/44'/195'",
+    "protocol": {
+      "type": "TRC20",
+      "protocol_data": {
+        "platform": "TRX",
+        "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+      }
+    }
+  },
+  {
+    "coin": "TRXT",
+    "name": "tron_test",
+    "fname": "TRON Testnet",
+    "is_testnet": true,
+    "mm2": 1,
+    "wallet_only": true,
+    "decimals": 6,
+    "avg_blocktime": 3,
+    "required_confirmations": 1,
+    "derivation_path": "m/44'/195'",
+    "protocol": {
+      "type": "TRX",
+      "protocol_data": {
+        "network": "Nile"
+      }
+    }
+  },
+  {
+    "coin": "TESTUSDT-TRC20",
+    "name": "testusdt_trc20",
+    "fname": "Tether Testnet",
+    "is_testnet": true,
+    "mm2": 1,
+    "wallet_only": true,
+    "decimals": 6,
+    "derivation_path": "m/44'/195'",
+    "protocol": {
+      "type": "TRC20",
+      "protocol_data": {
+        "platform": "TRXT",
+        "contract_address": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf"
+      }
     }
   },
   {
@@ -17535,29 +17704,29 @@
     }
   },
   {
-	"coin": "VRM",
-	"name": "veriumreserve",
-	"fname": "Verium Reserve",
-	"rpcport": 33987,
-	"pubtype": 70,
-	"p2shtype": 132,
-	"wiftype": 198,
-	"txfee": 1000000,
+    "coin": "VRM",
+    "name": "veriumreserve",
+    "fname": "Verium Reserve",
+    "rpcport": 33987,
+    "pubtype": 70,
+    "p2shtype": 132,
+    "wiftype": 198,
+    "txfee": 1000000,
     "isPoS": 1,
-	"segwit": false,
-	"force_min_relay_fee": true,
-	"mm2": 1,
-	"confpath": "USERHOME/.verium/verium.conf",
-	"required_confirmations": 5,
-	"avg_blocktime": 240,
-	"protocol": {
-	  "type": "UTXO"
-	},
-   	"derivation_path": "m/44'/8750'",
+    "segwit": false,
+    "force_min_relay_fee": true,
+    "mm2": 1,
+    "confpath": "USERHOME/.verium/verium.conf",
+    "required_confirmations": 5,
+    "avg_blocktime": 240,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/8750'",
     "links": {
       "github": "https://github.com/VeriConomy/verium-current",
       "homepage": "https://vericonomy.com"
-     }
+    }
   },
   {
     "coin": "CAS",
