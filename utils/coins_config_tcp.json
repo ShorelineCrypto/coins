@@ -6873,16 +6873,6 @@
         },
         "electrum": [
             {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -6962,16 +6952,6 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
-            {
-                "url": "btx-electrumx.coinsmunity.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
@@ -7530,11 +7510,6 @@
                 "disable_cert_verification": true
             },
             {
-                "url": "miami.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "oakland.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -7586,11 +7561,6 @@
         "electrum": [
             {
                 "url": "chicago.ecoincore.com:34333",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "miami.ecoincore.com:34333",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             },
@@ -10506,22 +10476,9 @@
         "derivation_path": "m/44'/18'",
         "electrum": [
             {
-                "url": "dgc-ex-four.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "failover.dgc.ewmcx.biz:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
-            },
-            {
-                "url": "electrumx.dgc.ewmcx.org:50001",
-                "protocol": "TCP"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -11139,25 +11096,7 @@
                 ]
             },
             {
-                "url": "seed2.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
                 "url": "seed3.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "seed4.dingocoin.com:3342",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -12201,11 +12140,6 @@
             "homepage": "https://electronic-gulden-foundation.gitlab.io"
         },
         "electrum": [
-            {
-                "url": "electrum1.egulden.org:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
             {
                 "url": "electrum3.egulden.org:50002",
                 "protocol": "SSL",
@@ -14517,15 +14451,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx.firo.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "github": "https://github.com/firoorg/electrumx-firo/issues"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx01.firo.org:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -14786,15 +14711,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.fujicoin.org:50003",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "motty#8318"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.fujicoin.org:50003",
                 "protocol": "SSL",
                 "contact": [
@@ -14847,15 +14763,6 @@
             "homepage": "https://fujicoin.org"
         },
         "electrum": [
-            {
-                "url": "electrumx1.fujicoin.org:50003",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "motty#8318"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.fujicoin.org:50003",
                 "protocol": "SSL",
@@ -25884,6 +25791,10 @@
                 "ws_url": "wss://moonbeam-rpc.publicnode.com"
             },
             {
+                "url": "https://moonbeam.drpc.org",
+                "ws_url": "wss://moonbeam.drpc.org"
+            },
+            {
                 "url": "https://rpc.api.moonbeam.network",
                 "ws_url": "wss://wss.api.moonbeam.network"
             }
@@ -29082,59 +28993,6 @@
                 "contact": [
                     {
                         "discord": "1157581316175437884"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "TRMP": {
-        "coin": "TRMP",
-        "type": "UTXO",
-        "name": "TrumPow",
-        "coinpaprika_id": "trmp-trumpow",
-        "coingecko_id": "",
-        "livecoinwatch_id": "_TRMP",
-        "explorer_url": "https://explorer.trumpow.meme/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "TrumPow Signed Message:\n",
-        "fname": "TrumPow",
-        "rpcport": 33883,
-        "pubtype": 65,
-        "p2shtype": 28,
-        "wiftype": 151,
-        "segwit": false,
-        "txfee": 1000000,
-        "dingo_fee": true,
-        "dust": 1000000,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/1707'",
-        "links": {
-            "github": "https://github.com/trumpowppc/trumpow",
-            "homepage": "https://trumpow.meme"
-        },
-        "electrum": [
-            {
-                "url": "electrum-server2.trumpow.meme:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": [
-                            "1157581316175437884",
-                            "1100673536743460894",
-                            "1209163889489616998"
-                        ]
                     }
                 ]
             }
@@ -34828,9 +34686,6 @@
         },
         "nodes": [
             {
-                "url": "https://api.nileex.io"
-            },
-            {
                 "url": "https://nile.trongrid.io"
             }
         ],
@@ -36153,11 +36008,6 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
-            {
-                "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
@@ -45369,9 +45219,9 @@
         "coin": "VRM",
         "type": "UTXO",
         "name": "Verium Reserve",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "vrm-veriumreserve",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "VRM",
         "explorer_url": "https://verium-explorer.vericonomy.com/",
         "explorer_tx_url": "transaction/",
         "explorer_address_url": "address/",
