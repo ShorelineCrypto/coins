@@ -3335,11 +3335,13 @@
     "by_server": {
       "electrum1.egulden.org:50002": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       },
       "electrum1.egulden.org:50004": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       },
       "electrum2.egulden.org:50002": {
         "1755770395": "offline"
@@ -3718,15 +3720,18 @@
       },
       "electrumx.firo.org:50001": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       },
       "electrumx.firo.org:50002": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       },
       "electrumx.firo.org:50004": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       },
       "electrumx01.firo.org:50001": {
         "1755770395": "online"
@@ -9103,7 +9108,8 @@
   "TRMP": {
     "all": {
       "1760350495": "online",
-      "1776831960": "offline"
+      "1776831960": "offline",
+      "1776909733": "online"
     },
     "by_server": {
       "_metadata": {
@@ -9191,15 +9197,18 @@
       },
       "electrum-server2.trumpow.meme:50001": {
         "1760350495": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       },
       "electrum-server2.trumpow.meme:50002": {
         "1760350495": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       },
       "electrum-server2.trumpow.meme:50004": {
         "1760350495": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1776909733": "online"
       }
     }
   },
