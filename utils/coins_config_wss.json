@@ -12774,6 +12774,15 @@
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
                     }
                 ]
+            },
+            {
+                "url": "electrumx03.firo.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -22783,6 +22792,100 @@
         ],
         "explorer_block_url": "block/"
     },
+    "MONA": {
+        "coin": "MONA",
+        "type": "UTXO",
+        "name": "MonaCoin",
+        "coinpaprika_id": "mona-monacoin",
+        "coingecko_id": "monacoin",
+        "livecoinwatch_id": "MONA",
+        "explorer_url": "https://blockbook.electrum-mona.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Monacoin Signed Message:\n",
+        "fname": "MonaCoin",
+        "rpcport": 9402,
+        "pubtype": 50,
+        "p2shtype": 5,
+        "wiftype": 176,
+        "txfee": 100000,
+        "dust": 100000,
+        "segwit": true,
+        "bech32_hrp": "mona",
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 90,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/22'",
+        "trezor_coin": "Monacoin",
+        "links": {
+            "github": "https://github.com/monacoinproject/monacoin",
+            "homepage": "https://monacoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.monacoin.ninja:50004",
+                "protocol": "WSS"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "MONA-segwit": {
+        "coin": "MONA-segwit",
+        "type": "UTXO",
+        "name": "MonaCoin",
+        "coinpaprika_id": "mona-monacoin",
+        "coingecko_id": "monacoin",
+        "livecoinwatch_id": "MONA",
+        "explorer_url": "https://blockbook.electrum-mona.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Monacoin Signed Message:\n",
+        "fname": "MonaCoin",
+        "rpcport": 9402,
+        "pubtype": 50,
+        "p2shtype": 5,
+        "wiftype": 176,
+        "txfee": 100000,
+        "dust": 100000,
+        "segwit": true,
+        "bech32_hrp": "mona",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "MONA",
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 90,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/22'",
+        "trezor_coin": "Monacoin",
+        "links": {
+            "github": "https://github.com/monacoinproject/monacoin",
+            "homepage": "https://monacoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.monacoin.ninja:50004",
+                "protocol": "WSS"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "MOR-ERC20": {
         "coin": "MOR-ERC20",
         "type": "ERC-20",
@@ -22979,10 +23082,6 @@
             {
                 "url": "https://moonbeam-rpc.publicnode.com",
                 "ws_url": "wss://moonbeam-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonbeam.network",
