@@ -3759,7 +3759,8 @@
       },
       "electrumx03.firo.org:50004": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777005785": "online"
       }
     }
   },
@@ -4517,7 +4518,8 @@
         "1775596182": "offline",
         "1775613107": "online",
         "1776104716": "offline",
-        "1776831960": "online"
+        "1776831960": "online",
+        "1777005785": "offline"
       },
       "https://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -4540,7 +4542,8 @@
         "1775596182": "offline",
         "1775613107": "online",
         "1776104716": "offline",
-        "1776831960": "online"
+        "1776831960": "online",
+        "1777005785": "offline"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -6794,6 +6797,9 @@
       "electrumx1.monacoin.ninja:50001": {
         "1755770395": "online"
       },
+      "electrumx1.monacoin.ninja:50004": {
+        "1777005785": "online"
+      },
       "electrumx3.monacoin.nl:50001": {
         "1755770395": "offline"
       }
@@ -6812,6 +6818,9 @@
       },
       "electrumx1.monacoin.ninja:50001": {
         "1755770395": "online"
+      },
+      "electrumx1.monacoin.ninja:50004": {
+        "1777005785": "online"
       },
       "electrumx3.monacoin.nl:50001": {
         "1755770395": "offline"
@@ -9233,7 +9242,8 @@
       "https://api.nileex.io": {
         "1773700082": "offline",
         "1773964971": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777005785": "online"
       },
       "https://nile.trongrid.io": {
         "1773700082": "offline",

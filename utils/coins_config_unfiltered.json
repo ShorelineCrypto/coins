@@ -17157,6 +17157,15 @@
                         "github": "https://github.com/firoorg/electrumx-firo/issues"
                     }
                 ]
+            },
+            {
+                "url": "electrumx03.firo.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/firoorg/electrumx-firo/issues"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -29777,6 +29786,10 @@
             {
                 "url": "electrumx1.monacoin.ninja:50001",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.monacoin.ninja:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -29834,6 +29847,10 @@
             {
                 "url": "electrumx1.monacoin.ninja:50001",
                 "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.monacoin.ninja:50004",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
@@ -30046,10 +30063,6 @@
             {
                 "url": "https://moonbeam-rpc.publicnode.com",
                 "ws_url": "wss://moonbeam-rpc.publicnode.com"
-            },
-            {
-                "url": "https://moonbeam.drpc.org",
-                "ws_url": "wss://moonbeam.drpc.org"
             },
             {
                 "url": "https://rpc.api.moonbeam.network",
@@ -40659,6 +40672,9 @@
             }
         },
         "nodes": [
+            {
+                "url": "https://api.nileex.io"
+            },
             {
                 "url": "https://nile.trongrid.io"
             }
