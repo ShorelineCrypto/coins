@@ -6093,16 +6093,6 @@
         },
         "electrum": [
             {
-                "url": "btx-electrumx.coinsmunity.com:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
                 "url": "btx.electrum1.cipig.net:30069",
                 "protocol": "WSS",
                 "contact": [
@@ -6182,16 +6172,6 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
-            {
-                "url": "btx-electrumx.coinsmunity.com:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "btx.electrum1.cipig.net:30069",
                 "protocol": "WSS",
@@ -6662,92 +6642,6 @@
             }
         ],
         "explorer_block_url": "block/"
-    },
-    "CDN": {
-        "coin": "CDN",
-        "type": "UTXO",
-        "name": "Canada eCoin",
-        "coinpaprika_id": "cdn-canada-ecoin",
-        "coingecko_id": "canada-ecoin",
-        "livecoinwatch_id": "CDN",
-        "explorer_url": "https://chainz.cryptoid.info/cdn/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Canada eCoin Signed Message:\n",
-        "fname": "Canada eCoin",
-        "rpcport": 34330,
-        "pubtype": 28,
-        "p2shtype": 5,
-        "wiftype": 156,
-        "txfee": 200000,
-        "dust": 54600,
-        "segwit": true,
-        "bech32_hrp": "cdn",
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 300,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/34'",
-        "electrum": [
-            {
-                "url": "miami.ecoincore.com:34335",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            }
-        ],
-        "explorer_block_url": "block.dws?"
-    },
-    "CDN-segwit": {
-        "coin": "CDN-segwit",
-        "type": "UTXO",
-        "name": "Canada eCoin",
-        "coinpaprika_id": "cdn-canada-ecoin",
-        "coingecko_id": "canada-ecoin",
-        "livecoinwatch_id": "CDN",
-        "explorer_url": "https://chainz.cryptoid.info/cdn/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Canada eCoin Signed Message:\n",
-        "fname": "Canada eCoin",
-        "rpcport": 34330,
-        "pubtype": 28,
-        "p2shtype": 5,
-        "wiftype": 156,
-        "txfee": 200000,
-        "dust": 54600,
-        "segwit": true,
-        "bech32_hrp": "cdn",
-        "address_format": {
-            "format": "segwit"
-        },
-        "orderbook_ticker": "CDN",
-        "mm2": 1,
-        "required_confirmations": 2,
-        "avg_blocktime": 300,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/84'/34'",
-        "electrum": [
-            {
-                "url": "miami.ecoincore.com:34335",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            }
-        ],
-        "explorer_block_url": "block.dws?"
     },
     "CDS-PLG20": {
         "coin": "CDS-PLG20",
@@ -9319,15 +9213,6 @@
         "derivation_path": "m/44'/18'",
         "electrum": [
             {
-                "url": "dgc-ex-four.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "failover.dgc.ewmcx.biz:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -9927,25 +9812,7 @@
                 ]
             },
             {
-                "url": "seed2.dingocoin.com:3341",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
                 "url": "seed3.dingocoin.com:3341",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "seed4.dingocoin.com:3341",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -13142,15 +13009,6 @@
         },
         "electrum": [
             {
-                "url": "electrumx1.fujicoin.org:50005",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "motty#8318"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx2.fujicoin.org:50005",
                 "protocol": "WSS",
                 "contact": [
@@ -13203,15 +13061,6 @@
             "homepage": "https://fujicoin.org"
         },
         "electrum": [
-            {
-                "url": "electrumx1.fujicoin.org:50005",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "motty#8318"
-                    }
-                ]
-            },
             {
                 "url": "electrumx2.fujicoin.org:50005",
                 "protocol": "WSS",
@@ -22943,6 +22792,100 @@
         ],
         "explorer_block_url": "block/"
     },
+    "MONA": {
+        "coin": "MONA",
+        "type": "UTXO",
+        "name": "MonaCoin",
+        "coinpaprika_id": "mona-monacoin",
+        "coingecko_id": "monacoin",
+        "livecoinwatch_id": "MONA",
+        "explorer_url": "https://blockbook.electrum-mona.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Monacoin Signed Message:\n",
+        "fname": "MonaCoin",
+        "rpcport": 9402,
+        "pubtype": 50,
+        "p2shtype": 5,
+        "wiftype": 176,
+        "txfee": 100000,
+        "dust": 100000,
+        "segwit": true,
+        "bech32_hrp": "mona",
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 90,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/22'",
+        "trezor_coin": "Monacoin",
+        "links": {
+            "github": "https://github.com/monacoinproject/monacoin",
+            "homepage": "https://monacoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.monacoin.ninja:50004",
+                "protocol": "WSS"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "MONA-segwit": {
+        "coin": "MONA-segwit",
+        "type": "UTXO",
+        "name": "MonaCoin",
+        "coinpaprika_id": "mona-monacoin",
+        "coingecko_id": "monacoin",
+        "livecoinwatch_id": "MONA",
+        "explorer_url": "https://blockbook.electrum-mona.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Monacoin Signed Message:\n",
+        "fname": "MonaCoin",
+        "rpcport": 9402,
+        "pubtype": 50,
+        "p2shtype": 5,
+        "wiftype": 176,
+        "txfee": 100000,
+        "dust": 100000,
+        "segwit": true,
+        "bech32_hrp": "mona",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "MONA",
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 90,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/22'",
+        "trezor_coin": "Monacoin",
+        "links": {
+            "github": "https://github.com/monacoinproject/monacoin",
+            "homepage": "https://monacoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.monacoin.ninja:50004",
+                "protocol": "WSS"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "MOR-ERC20": {
         "coin": "MOR-ERC20",
         "type": "ERC-20",
@@ -32067,11 +32010,6 @@
         },
         "electrum": [
             {
-                "url": "uno-bkp.coinmunity.gold:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
-            },
-            {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS",
                 "disable_cert_verification": true
@@ -40174,9 +40112,9 @@
         "coin": "VRM",
         "type": "UTXO",
         "name": "Verium Reserve",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "vrm-veriumreserve",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "VRM",
         "explorer_url": "https://verium-explorer.vericonomy.com/",
         "explorer_tx_url": "transaction/",
         "explorer_address_url": "address/",
