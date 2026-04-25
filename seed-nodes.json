@@ -3,7 +3,7 @@
         "name": "cheetah-seed",
         "host": "mm2seed.shorelinecrypto.com",
         "type": "domain",
-        "wss": false,
+        "wss": true,
         "netid": 8762,
         "contact": [
             {
