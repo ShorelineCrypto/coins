@@ -415,26 +415,33 @@
   },
   "AURE": {
     "all": {
-      "1772144114": "online"
+      "1772144114": "online",
+      "1777687578": "offline"
     },
     "by_server": {
       "aurascan.gt.tc:50002": {
-        "1772144114": "online"
+        "1772144114": "online",
+        "1777687578": "offline"
       },
       "aurascan.gt.tc:50004": {
-        "1772144114": "online"
+        "1772144114": "online",
+        "1777687578": "offline"
       },
       "aureuscoin.site:50002": {
-        "1772144114": "online"
+        "1772144114": "online",
+        "1777687578": "offline"
       },
       "aureuscoin.site:50004": {
-        "1772144114": "online"
+        "1772144114": "online",
+        "1777687578": "offline"
       },
       "fulcrum.aureuscoin.site:50002": {
-        "1772144114": "online"
+        "1772144114": "online",
+        "1777687578": "offline"
       },
       "fulcrum.aureuscoin.site:50004": {
-        "1772144114": "online"
+        "1772144114": "online",
+        "1777687578": "offline"
       }
     }
   },
@@ -2838,7 +2845,8 @@
         "1757307678": "offline",
         "1758586414": "online",
         "1774987573": "offline",
-        "1775440462": "online"
+        "1775440462": "online",
+        "1777687578": "offline"
       }
     }
   },
@@ -3887,15 +3895,18 @@
       },
       "electrumx1.fujicoin.org:50001": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777687578": "online"
       },
       "electrumx1.fujicoin.org:50003": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777687578": "online"
       },
       "electrumx1.fujicoin.org:50005": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777687578": "online"
       },
       "electrumx2.fujicoin.org:50001": {
         "1755770395": "online",
@@ -3965,15 +3976,18 @@
       },
       "electrumx1.fujicoin.org:50001": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777687578": "online"
       },
       "electrumx1.fujicoin.org:50003": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777687578": "online"
       },
       "electrumx1.fujicoin.org:50005": {
         "1755770395": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1777687578": "online"
       },
       "electrumx2.fujicoin.org:50001": {
         "1755770395": "online",
@@ -8641,7 +8655,8 @@
         "1773700082": "offline",
         "1774959961": "online",
         "1775592931": "offline",
-        "1775613107": "online"
+        "1775613107": "online",
+        "1777687578": "offline"
       },
       "electrum4.runebase.io:50002": {
         "1755770395": "offline",
@@ -8651,7 +8666,8 @@
         "1773700082": "offline",
         "1774959961": "online",
         "1775592931": "offline",
-        "1775613107": "online"
+        "1775613107": "online",
+        "1777687578": "offline"
       },
       "electrum4.runebase.io:50004": {
         "1755770395": "offline",
@@ -8661,7 +8677,8 @@
         "1773700082": "offline",
         "1774959961": "online",
         "1775592931": "offline",
-        "1775613107": "online"
+        "1775613107": "online",
+        "1777687578": "offline"
       }
     }
   },
@@ -9741,6 +9758,34 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrumx2.cointest.com:50001": {
+          "contact": [
+            {
+              "email": "protocol@whive.io"
+            },
+            {
+              "discord": "whiveio#9340"
+            },
+            {
+              "twitter": "whiveio"
+            }
+          ]
+        },
+        "electrumx2.cointest.com:50002": {
+          "contact": [
+            {
+              "email": "protocol@whive.io"
+            },
+            {
+              "discord": "whiveio#9340"
+            },
+            {
+              "twitter": "whiveio"
+            }
+          ]
+        }
+      },
       "electrumx1.cointest.com:50001": {
         "1755770395": "online"
       },
@@ -9748,10 +9793,12 @@
         "1755770395": "online"
       },
       "electrumx2.cointest.com:50001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1777687578": "offline"
       },
       "electrumx2.cointest.com:50002": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1777687578": "offline"
       }
     }
   },
@@ -9760,6 +9807,34 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrumx2.cointest.com:50001": {
+          "contact": [
+            {
+              "email": "protocol@whive.io"
+            },
+            {
+              "discord": "whiveio#9340"
+            },
+            {
+              "twitter": "whiveio"
+            }
+          ]
+        },
+        "electrumx2.cointest.com:50002": {
+          "contact": [
+            {
+              "email": "protocol@whive.io"
+            },
+            {
+              "discord": "whiveio#9340"
+            },
+            {
+              "twitter": "whiveio"
+            }
+          ]
+        }
+      },
       "electrumx1.cointest.com:50001": {
         "1755770395": "online"
       },
@@ -9767,10 +9842,12 @@
         "1755770395": "online"
       },
       "electrumx2.cointest.com:50001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1777687578": "offline"
       },
       "electrumx2.cointest.com:50002": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1777687578": "offline"
       }
     }
   },
