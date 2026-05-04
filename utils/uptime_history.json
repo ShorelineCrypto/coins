@@ -2219,17 +2219,53 @@
   },
   "CLC": {
     "all": {
-      "1755770395": "online"
+      "1755770395": "online",
+      "1777860675": "offline"
     },
     "by_server": {
+      "_metadata": {
+        "v2.cryptocollider.com:10001": {
+          "contact": [
+            {
+              "email": "electrumx@cryptocollider.com"
+            },
+            {
+              "discord": "collider#6160"
+            }
+          ]
+        },
+        "v2.cryptocollider.com:5001": {
+          "contact": [
+            {
+              "email": "electrumx@cryptocollider.com"
+            },
+            {
+              "discord": "collider#6160"
+            }
+          ]
+        },
+        "v2.cryptocollider.com:8443": {
+          "contact": [
+            {
+              "email": "electrumx@cryptocollider.com"
+            },
+            {
+              "discord": "collider#6160"
+            }
+          ]
+        }
+      },
       "v2.cryptocollider.com:10001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1777860675": "offline"
       },
       "v2.cryptocollider.com:5001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1777860675": "offline"
       },
       "v2.cryptocollider.com:8443": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1777860675": "offline"
       }
     }
   },
@@ -2588,11 +2624,13 @@
       },
       "dgc-ex-three.ewmci.online:50001": {
         "1755770395": "online",
-        "1774987573": "offline"
+        "1774987573": "offline",
+        "1777860675": "online"
       },
       "dgc-ex-three.ewmci.online:50002": {
         "1755770395": "online",
-        "1774987573": "offline"
+        "1774987573": "offline",
+        "1777860675": "online"
       },
       "dgc-ex-three.ewmci.online:50003": {
         "1755770395": "offline"
@@ -7910,20 +7948,23 @@
     "all": {
       "1755770395": "offline",
       "1758289389": "online",
-      "1772144114": "offline"
+      "1772144114": "offline",
+      "1777860675": "online"
     },
     "by_server": {
       "pink-one.ewm-cx.net:50001": {
         "1755770395": "offline",
         "1758289389": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1777860675": "online"
       },
       "pink-two.ewm-cx.net:50001": {
         "1755770395": "offline",
         "1758289389": "online",
         "1760163826": "offline",
         "1760350495": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1777860675": "online"
       }
     }
   },
@@ -9996,15 +10037,18 @@
       },
       "xmy-ex-one.ewmci.online:50001": {
         "1755770395": "online",
-        "1774959961": "offline"
+        "1774959961": "offline",
+        "1777860675": "online"
       },
       "xmy-ex-one.ewmci.online:50002": {
         "1755770395": "online",
-        "1774959961": "offline"
+        "1774959961": "offline",
+        "1777860675": "online"
       },
       "xmy-ex-one.ewmci.online:50003": {
         "1755770395": "online",
-        "1774959961": "offline"
+        "1774959961": "offline",
+        "1777860675": "online"
       },
       "xmy-ex-two.ewmci.online:50001": {
         "1755770395": "online"
@@ -10047,15 +10091,18 @@
       },
       "xmy-ex-one.ewmci.online:50001": {
         "1755770395": "online",
-        "1774959961": "offline"
+        "1774959961": "offline",
+        "1777860675": "online"
       },
       "xmy-ex-one.ewmci.online:50002": {
         "1755770395": "online",
-        "1774959961": "offline"
+        "1774959961": "offline",
+        "1777860675": "online"
       },
       "xmy-ex-one.ewmci.online:50003": {
         "1755770395": "online",
-        "1774959961": "offline"
+        "1774959961": "offline",
+        "1777860675": "online"
       },
       "xmy-ex-two.ewmci.online:50001": {
         "1755770395": "online"
