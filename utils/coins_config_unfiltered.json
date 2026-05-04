@@ -929,6 +929,24 @@
                 ]
             },
             {
+                "url": "aby-ex-three.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "aby-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -33774,7 +33792,7 @@
         "type": "UTXO",
         "name": "TrumPow",
         "coinpaprika_id": "trmp-trumpow",
-        "coingecko_id": "",
+        "coingecko_id": "trumpow",
         "livecoinwatch_id": "_TRMP",
         "explorer_url": "https://explorer.trumpow.meme/",
         "explorer_tx_url": "tx/",
@@ -47823,6 +47841,24 @@
                 "protocol": "TCP"
             },
             {
+                "url": "zet-ex-four.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "zet-ex-four.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
                 "url": "zet-ex-three.ewmci.online:50011",
                 "protocol": "TCP",
                 "contact": [
@@ -51161,6 +51197,36 @@
                         "twitter": "whiveio"
                     }
                 ]
+            },
+            {
+                "url": "electrumx2.cointest.com:50001",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.cointest.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -51224,6 +51290,36 @@
             },
             {
                 "url": "electrumx1.cointest.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.cointest.com:50001",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.cointest.com:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -51861,9 +51957,6 @@
         "rpc_urls": [
             {
                 "url": "https://osmosis.rpc.stakin-nodes.com"
-            },
-            {
-                "url": "https://rpc.cosmos.directory/osmosis"
             },
             {
                 "url": "https://rpc.osmosis.zone/"

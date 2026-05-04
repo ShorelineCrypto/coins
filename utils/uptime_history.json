@@ -75,7 +75,8 @@
         "1763079262": "online",
         "1766366022": "offline",
         "1768612207": "online",
-        "1772219758": "offline"
+        "1772219758": "offline",
+        "1777930797": "online"
       },
       "aby-ex-three.ewmci.online:50002": {
         "1755770395": "online",
@@ -83,7 +84,8 @@
         "1763079262": "online",
         "1766366022": "offline",
         "1768612207": "online",
-        "1772219758": "offline"
+        "1772219758": "offline",
+        "1777930797": "online"
       },
       "aby-ex-three.ewmci.online:50003": {
         "1755770395": "offline"
@@ -7840,7 +7842,8 @@
         "1764676026": "offline",
         "1764680900": "online",
         "1768785451": "offline",
-        "1768871563": "online"
+        "1768871563": "online",
+        "1777930797": "offline"
       },
       "https://rpc.osmosis.zone/": {
         "1755770395": "online"
@@ -9835,11 +9838,13 @@
       },
       "electrumx2.cointest.com:50001": {
         "1755770395": "online",
-        "1777687578": "offline"
+        "1777687578": "offline",
+        "1777930797": "online"
       },
       "electrumx2.cointest.com:50002": {
         "1755770395": "online",
-        "1777687578": "offline"
+        "1777687578": "offline",
+        "1777930797": "online"
       }
     }
   },
@@ -9884,11 +9889,13 @@
       },
       "electrumx2.cointest.com:50001": {
         "1755770395": "online",
-        "1777687578": "offline"
+        "1777687578": "offline",
+        "1777930797": "online"
       },
       "electrumx2.cointest.com:50002": {
         "1755770395": "online",
-        "1777687578": "offline"
+        "1777687578": "offline",
+        "1777930797": "online"
       }
     }
   },
@@ -10530,7 +10537,8 @@
         "1768612207": "online",
         "1771127316": "offline",
         "1771248350": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1777930797": "online"
       },
       "zet-ex-four.ewmci.online:50002": {
         "1755770395": "online",
@@ -10540,7 +10548,8 @@
         "1768612207": "online",
         "1771127316": "offline",
         "1771248350": "online",
-        "1773700082": "offline"
+        "1773700082": "offline",
+        "1777930797": "online"
       },
       "zet-ex-four.ewmci.online:50003": {
         "1755770395": "offline"
