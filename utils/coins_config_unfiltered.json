@@ -3177,15 +3177,6 @@
                 ]
             },
             {
-                "url": "electrum-eu.avn.network:50001",
-                "contact": [
-                    {
-                        "email": "contact@avn.network"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
                 "url": "electrum-eu.avn.network:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -51959,6 +51950,9 @@
                 "url": "https://osmosis.rpc.stakin-nodes.com"
             },
             {
+                "url": "https://rpc.cosmos.directory/osmosis"
+            },
+            {
                 "url": "https://rpc.osmosis.zone/"
             }
         ],
@@ -52177,42 +52171,6 @@
             "homepage": "https://coin.crionic.org"
         },
         "electrum": [
-            {
-                "url": "coin.crionic.org:50001",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ],
-                "protocol": "TCP"
-            },
-            {
-                "url": "coin.crionic.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            },
-            {
-                "url": "coin.crionic.org:50005",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            },
             {
                 "url": "explorer.crionic.org:50001",
                 "contact": [
@@ -52811,7 +52769,7 @@
                 "protocol": "SSL",
                 "contact": [
                     {
-                        "discord": "351803108407509005"
+                        "discord": "Meowmancer#2099"
                     }
                 ]
             },
@@ -52820,30 +52778,12 @@
                 "protocol": "WSS",
                 "contact": [
                     {
-                        "discord": "351803108407509005"
+                        "discord": "Meowmancer#2099"
                     }
                 ]
             },
             {
-                "url": "electrum.mewccrypto.com:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "351803108407509005"
-                    }
-                ]
-            },
-            {
-                "url": "electrum.mewccrypto.com:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "351803108407509005"
-                    }
-                ]
-            },
-            {
-                "url": "meowcoinelectrum.xyz:50002",
+                "url": "electrs2.mewccrypto.com:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -52852,7 +52792,43 @@
                 ]
             },
             {
-                "url": "meowcoinelectrum.xyz:50004",
+                "url": "electrs2.mewccrypto.com:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrs3.meowcoin.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrs3.meowcoin.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrs4.meowcoin.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrs4.meowcoin.org:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
