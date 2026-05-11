@@ -1662,12 +1662,16 @@
         "1762013934": "online",
         "1764983334": "offline"
       },
+      "electrum1.btcz.rocks:50002": {
+        "1778466793": "online"
+      },
       "electrum1.btcz.rocks:50004": {
         "1755770395": "offline",
         "1757895281": "online",
         "1760706938": "offline",
         "1762013934": "online",
-        "1764983334": "offline"
+        "1764983334": "offline",
+        "1778466793": "online"
       },
       "electrum2.btcz.rocks:50001": {
         "1755770395": "online",
@@ -1675,6 +1679,9 @@
         "1762013934": "online",
         "1763079262": "offline",
         "1763717835": "online"
+      },
+      "electrum2.btcz.rocks:50002": {
+        "1778466793": "online"
       },
       "electrum2.btcz.rocks:50004": {
         "1755770395": "online",
@@ -1804,14 +1811,16 @@
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -1859,14 +1868,16 @@
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"

@@ -5499,6 +5499,24 @@
         "derivation_path": "m/44'/177'",
         "electrum": [
             {
+                "url": "electrum1.btcz.rocks:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "517255090633965586"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.btcz.rocks:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "517255090633965586"
+                    }
+                ]
+            },
+            {
                 "url": "electrum3.btcz.rocks:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -6042,16 +6060,6 @@
         },
         "electrum": [
             {
-                "url": "btx-electrumx.coinsmunity.com:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
-            {
                 "url": "btx.electrum1.cipig.net:30069",
                 "protocol": "WSS",
                 "contact": [
@@ -6131,16 +6139,6 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
-            {
-                "url": "btx-electrumx.coinsmunity.com:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "[MadCatMining]#0677"
-                    }
-                ]
-            },
             {
                 "url": "btx.electrum1.cipig.net:30069",
                 "protocol": "WSS",
