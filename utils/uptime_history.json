@@ -3017,6 +3017,20 @@
               "discord": "115619332448321541"
             }
           ]
+        },
+        "seed4.dingocoin.com:3341": {
+          "contact": [
+            {
+              "discord": "115619332448321541"
+            }
+          ]
+        },
+        "seed4.dingocoin.com:3342": {
+          "contact": [
+            {
+              "discord": "115619332448321541"
+            }
+          ]
         }
       },
       "delecx.twinkykms.com:3339": {
@@ -3123,10 +3137,12 @@
         "1776831960": "offline"
       },
       "seed4.dingocoin.com:3341": {
-        "1776008736": "online"
+        "1776008736": "online",
+        "1778701316": "offline"
       },
       "seed4.dingocoin.com:3342": {
-        "1776008736": "online"
+        "1776008736": "online",
+        "1778701316": "offline"
       },
       "seed5.dingocoin.com:3339": {
         "1776008736": "online"
