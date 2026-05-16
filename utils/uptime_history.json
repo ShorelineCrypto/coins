@@ -53,21 +53,24 @@
         "1766366022": "offline",
         "1768699088": "online",
         "1772219758": "offline",
-        "1773700082": "online"
+        "1773700082": "online",
+        "1778552827": "offline"
       },
       "aby-ex-four.ewmci.online:50012": {
         "1755770395": "online",
         "1766366022": "offline",
         "1768699088": "online",
         "1772219758": "offline",
-        "1773700082": "online"
+        "1773700082": "online",
+        "1778552827": "offline"
       },
       "aby-ex-four.ewmci.online:50013": {
         "1755770395": "online",
         "1766366022": "offline",
         "1768699088": "online",
         "1772219758": "offline",
-        "1773700082": "online"
+        "1773700082": "online",
+        "1778552827": "offline"
       },
       "aby-ex-three.ewmci.online:50001": {
         "1755770395": "online",
@@ -106,7 +109,8 @@
   },
   "ACTN": {
     "all": {
-      "1755770395": "online"
+      "1755770395": "online",
+      "1778552827": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -130,6 +134,27 @@
               "email": "support@actioncoin.com"
             }
           ]
+        },
+        "electrumx2.actioncoin.com:10001": {
+          "contact": [
+            {
+              "email": "support@actioncoin.com"
+            }
+          ]
+        },
+        "electrumx2.actioncoin.com:20001": {
+          "contact": [
+            {
+              "email": "support@actioncoin.com"
+            }
+          ]
+        },
+        "electrumx2.actioncoin.com:30001": {
+          "contact": [
+            {
+              "email": "support@actioncoin.com"
+            }
+          ]
         }
       },
       "electrumx1.actioncoin.com:10001": {
@@ -142,13 +167,16 @@
         "1755770395": "offline"
       },
       "electrumx2.actioncoin.com:10001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1778552827": "offline"
       },
       "electrumx2.actioncoin.com:20001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1778552827": "offline"
       },
       "electrumx2.actioncoin.com:30001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1778552827": "offline"
       }
     }
   },
@@ -1662,12 +1690,16 @@
         "1762013934": "online",
         "1764983334": "offline"
       },
+      "electrum1.btcz.rocks:50002": {
+        "1778466793": "online"
+      },
       "electrum1.btcz.rocks:50004": {
         "1755770395": "offline",
         "1757895281": "online",
         "1760706938": "offline",
         "1762013934": "online",
-        "1764983334": "offline"
+        "1764983334": "offline",
+        "1778466793": "online"
       },
       "electrum2.btcz.rocks:50001": {
         "1755770395": "online",
@@ -1675,6 +1707,9 @@
         "1762013934": "online",
         "1763079262": "offline",
         "1763717835": "online"
+      },
+      "electrum2.btcz.rocks:50002": {
+        "1778466793": "online"
       },
       "electrum2.btcz.rocks:50004": {
         "1755770395": "online",
@@ -1804,14 +1839,16 @@
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -1859,14 +1896,16 @@
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
         "1774987573": "offline",
         "1775440462": "online",
         "1776831960": "offline",
-        "1777342440": "online"
+        "1777342440": "online",
+        "1778466793": "offline"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -2678,7 +2717,8 @@
         "1770168231": "offline",
         "1770254634": "online",
         "1772144114": "offline",
-        "1772587456": "online"
+        "1772587456": "online",
+        "1778552827": "offline"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
@@ -2689,7 +2729,8 @@
         "1770168231": "offline",
         "1770254634": "online",
         "1772144114": "offline",
-        "1772587456": "online"
+        "1772587456": "online",
+        "1778552827": "offline"
       }
     }
   },
@@ -2976,6 +3017,20 @@
               "discord": "115619332448321541"
             }
           ]
+        },
+        "seed4.dingocoin.com:3341": {
+          "contact": [
+            {
+              "discord": "115619332448321541"
+            }
+          ]
+        },
+        "seed4.dingocoin.com:3342": {
+          "contact": [
+            {
+              "discord": "115619332448321541"
+            }
+          ]
         }
       },
       "delecx.twinkykms.com:3339": {
@@ -3055,15 +3110,18 @@
       },
       "seed2.dingocoin.com:3339": {
         "1776008736": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1778552827": "online"
       },
       "seed2.dingocoin.com:3341": {
         "1776008736": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1778552827": "online"
       },
       "seed2.dingocoin.com:3342": {
         "1776008736": "online",
-        "1776831960": "offline"
+        "1776831960": "offline",
+        "1778552827": "online"
       },
       "seed3.dingocoin.com:3339": {
         "1776008736": "online"
@@ -3079,10 +3137,12 @@
         "1776831960": "offline"
       },
       "seed4.dingocoin.com:3341": {
-        "1776008736": "online"
+        "1776008736": "online",
+        "1778701316": "offline"
       },
       "seed4.dingocoin.com:3342": {
-        "1776008736": "online"
+        "1776008736": "online",
+        "1778701316": "offline"
       },
       "seed5.dingocoin.com:3339": {
         "1776008736": "online"
@@ -4623,7 +4683,8 @@
         "1776831960": "online",
         "1777005785": "offline",
         "1777255662": "online",
-        "1778294861": "offline"
+        "1778294861": "offline",
+        "1778410468": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -10597,7 +10658,8 @@
         "1771378210": "offline",
         "1771550721": "online",
         "1773700082": "offline",
-        "1775959086": "online"
+        "1775959086": "online",
+        "1778552827": "offline"
       },
       "zet-ex-three.ewmci.online:50012": {
         "1755770395": "offline",
@@ -10611,7 +10673,8 @@
         "1771378210": "offline",
         "1771550721": "online",
         "1773700082": "offline",
-        "1775959086": "online"
+        "1775959086": "online",
+        "1778552827": "offline"
       },
       "zet-ex-three.ewmci.online:50013": {
         "1755770395": "offline",
@@ -10625,7 +10688,8 @@
         "1771378210": "offline",
         "1771550721": "online",
         "1773700082": "offline",
-        "1775959086": "online"
+        "1775959086": "online",
+        "1778552827": "offline"
       }
     }
   },
