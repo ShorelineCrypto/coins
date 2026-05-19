@@ -1757,9 +1757,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -1767,7 +1764,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -2115,9 +2115,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -2125,7 +2122,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -3678,9 +3678,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -3688,7 +3685,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -7375,24 +7375,6 @@
                         "discord": "517255090633965586"
                     }
                 ]
-            },
-            {
-                "url": "electrum3.btcz.rocks:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "426842722436120577"
-                    }
-                ]
-            },
-            {
-                "url": "electrum3.btcz.rocks:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "426842722436120577"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -8065,6 +8047,26 @@
         },
         "electrum": [
             {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -8180,6 +8182,26 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
+            {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
+                "url": "btx-electrumx.coinsmunity.com:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
@@ -8351,9 +8373,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -8361,7 +8380,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -9281,9 +9303,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -9291,7 +9310,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -10892,9 +10914,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -10902,7 +10921,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -12380,6 +12402,16 @@
                         "discord": "475820011634819072"
                     }
                 ]
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -13452,9 +13484,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -13462,7 +13491,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -14624,6 +14656,26 @@
         "derivation_path": "m/44'/7070'",
         "electrum": [
             {
+                "url": "big-parrot-60.doi.works:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "big-parrot-60.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
                 "url": "itchy-jellyfish-89.doi.works:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -14635,6 +14687,36 @@
             },
             {
                 "url": "itchy-jellyfish-89.doi.works:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "pink-deer-69.doi.works:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "pink-deer-69.doi.works:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/doichain/electrum-doi/issues",
+                        "twitter": "doichain"
+                    }
+                ]
+            },
+            {
+                "url": "pink-deer-69.doi.works:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -15564,12 +15646,12 @@
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
         "estimate_gas_mult": 1.3,
+        "gas_limit": {
+            "eth_send_coins": 50000
+        },
         "swap_contract_address": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
-            {
-                "url": "https://api.zan.top/arb-one"
-            },
             {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
@@ -15578,7 +15660,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/",
@@ -16006,9 +16091,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -16016,7 +16098,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -20013,9 +20098,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -20023,7 +20105,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -20243,9 +20328,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -20253,7 +20335,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -20626,9 +20711,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -20636,7 +20718,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -25900,6 +25985,33 @@
                 ]
             },
             {
+                "url": "electrumx.litecoincash.com.br:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "808803920818208801"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.litecoincash.com.br:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "808803920818208801"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.litecoincash.com.br:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "808803920818208801"
+                    }
+                ]
+            },
+            {
                 "url": "lcc-ex-one.ewmci.online:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -25983,6 +26095,33 @@
                 "contact": [
                     {
                         "discord": "635448663543644170"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.litecoincash.com.br:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "808803920818208801"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.litecoincash.com.br:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "808803920818208801"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx.litecoincash.com.br:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "808803920818208801"
                     }
                 ]
             },
@@ -27414,9 +27553,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -27424,7 +27560,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -29978,9 +30117,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -29988,7 +30124,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -32176,9 +32315,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -32186,7 +32322,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -32472,9 +32611,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -32482,7 +32618,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -36434,9 +36573,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -36444,7 +36580,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -37883,9 +38022,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -37893,7 +38029,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -39568,9 +39707,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -39578,7 +39714,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -42108,9 +42247,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -42118,7 +42254,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -42949,9 +43088,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -42959,7 +43095,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -44547,9 +44686,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -44557,7 +44693,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -44839,9 +44978,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -44849,7 +44985,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -47178,9 +47317,6 @@
         "fallback_swap_contract": "0x9130b257d37a52e52f21054c4da3450c72f595ce",
         "nodes": [
             {
-                "url": "https://api.zan.top/arb-one"
-            },
-            {
                 "url": "https://arb1.arbitrum.io/rpc"
             },
             {
@@ -47188,7 +47324,10 @@
                 "ws_url": "wss://arbitrum-one-rpc.publicnode.com"
             },
             {
-                "url": "https://rpc.sentio.xyz/arbitrum-one"
+                "url": "https://arbitrum-one.rpc.sentio.xyz"
+            },
+            {
+                "url": "https://public-arb-mainnet.fastnode.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -47816,24 +47955,6 @@
             {
                 "url": "207.180.252.200:50011",
                 "protocol": "TCP"
-            },
-            {
-                "url": "zet-ex-four.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-four.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -52761,6 +52882,24 @@
             },
             {
                 "url": "electrs4.meowcoin.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrs5.meowcoin.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "electrs5.meowcoin.org:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
