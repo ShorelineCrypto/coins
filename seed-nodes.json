@@ -28,7 +28,7 @@
         "host": "seed03.kmdefi.net",
         "type": "domain",
         "wss": true,
-        "netid": 8762,
+        "netid": 6133,
         "contact": [
             {
                 "email": ""
@@ -40,18 +40,6 @@
         "host": "seed04.kmdefi.net",
         "type": "domain",
         "wss": true,
-        "netid": 8762,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
-        "name": "balerion-dragon-seed",
-        "host": "balerion.dragon-seed.com",
-        "type": "domain",
-        "wss": false,
         "netid": 8762,
         "contact": [
             {
