@@ -3708,6 +3708,9 @@
       "https://rpc.mevblocker.io": {
         "1773964971": "online"
       },
+      "https://rpcfree.com/ethereum-rpc": {
+        "1780120460": "online"
+      },
       "wss://0xrpc.io/eth": {
         "1755770395": "online",
         "1769476724": "offline",
@@ -10202,7 +10205,8 @@
         "1779428138": "online"
       },
       "wss://rpc.gnosischain.com/wss": {
-        "1779428138": "online"
+        "1779428138": "online",
+        "1780120460": "offline"
       }
     }
   },
