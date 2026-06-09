@@ -3243,7 +3243,8 @@
         "1779142340": "online",
         "1779937604": "offline",
         "1780368879": "online",
-        "1780713238": "offline"
+        "1780713238": "offline",
+        "1780972393": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
@@ -3259,7 +3260,8 @@
         "1779142340": "online",
         "1779937604": "offline",
         "1780368879": "online",
-        "1780713238": "offline"
+        "1780713238": "offline",
+        "1780972393": "online"
       }
     }
   },
@@ -5490,7 +5492,8 @@
         "1779937604": "online",
         "1779942167": "offline",
         "1780022253": "online",
-        "1780899085": "offline"
+        "1780899085": "offline",
+        "1780972393": "online"
       },
       "https://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -5522,7 +5525,8 @@
         "1779937604": "online",
         "1779942167": "offline",
         "1780022253": "online",
-        "1780899085": "offline"
+        "1780899085": "offline",
+        "1780972393": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -11624,7 +11628,8 @@
         "1780457333": "offline",
         "1780530258": "online",
         "1780713238": "offline",
-        "1780899085": "online"
+        "1780899085": "online",
+        "1780972393": "offline"
       }
     }
   },
@@ -11975,7 +11980,8 @@
         "1768699088": "online",
         "1779937604": "offline",
         "1780368879": "online",
-        "1780887368": "offline"
+        "1780887368": "offline",
+        "1780972393": "online"
       },
       "electrumx1.vanillacash.info:50012": {
         "1755770395": "online",
@@ -11987,7 +11993,8 @@
         "1768699088": "online",
         "1779937604": "offline",
         "1780368879": "online",
-        "1780887368": "offline"
+        "1780887368": "offline",
+        "1780972393": "online"
       },
       "electrumx1.vanillacash.info:50013": {
         "1755770395": "online",
@@ -11999,7 +12006,8 @@
         "1768699088": "online",
         "1779937604": "offline",
         "1780368879": "online",
-        "1780887368": "offline"
+        "1780887368": "offline",
+        "1780972393": "online"
       },
       "electrumx2.vanillacash.info:50011": {
         "1755770395": "online",
