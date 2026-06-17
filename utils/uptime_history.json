@@ -1288,7 +1288,8 @@
       "1768093005": "online",
       "1772587456": "offline",
       "1780887368": "online",
-      "1781595462": "offline"
+      "1781595462": "offline",
+      "1781665138": "online"
     },
     "by_server": {
       "194.163.176.151:50001": {
@@ -1407,14 +1408,16 @@
         "1768093005": "online",
         "1772144114": "offline",
         "1780887368": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "bit-e.minethepla.net:50004": {
         "1768093005": "offline",
         "1768180562": "online",
         "1772144114": "offline",
         "1780887368": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "bit-e.outsidethebox.top:50002": {
         "1768093005": "online",
@@ -2152,7 +2155,8 @@
         "1780368879": "online",
         "1780627606": "offline",
         "1780899085": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
@@ -2166,7 +2170,8 @@
         "1780368879": "online",
         "1780627606": "offline",
         "1780899085": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -2243,7 +2248,8 @@
         "1780368879": "online",
         "1780627606": "offline",
         "1780899085": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
@@ -2257,7 +2263,8 @@
         "1780368879": "online",
         "1780627606": "offline",
         "1780899085": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -4188,15 +4195,18 @@
       },
       "electrumx.doriancoin.com:50001": {
         "1773964971": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "electrumx.doriancoin.com:50002": {
         "1773964971": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "electrumx.doriancoin.com:50004": {
         "1773964971": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "node1.doriancoin.com:50001": {
         "1773964971": "online"
@@ -4248,15 +4258,18 @@
       },
       "electrumx.doriancoin.com:50001": {
         "1773964971": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "electrumx.doriancoin.com:50002": {
         "1773964971": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "electrumx.doriancoin.com:50004": {
         "1773964971": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "node1.doriancoin.com:50001": {
         "1773964971": "online"
@@ -4449,7 +4462,8 @@
       "https://etc.etcdesktop.com": {
         "1755770395": "online",
         "1780887368": "offline",
-        "1781059600": "online"
+        "1781059600": "online",
+        "1781665138": "offline"
       },
       "https://etc.rivet.link": {
         "1755770395": "online"
@@ -11416,7 +11430,8 @@
         "1763165598": "online",
         "1780457333": "offline",
         "1780887368": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       },
       "uno-main.coinmunity.gold:50003": {
         "1755770395": "online",
@@ -11424,7 +11439,8 @@
         "1763165598": "online",
         "1780457333": "offline",
         "1780887368": "online",
-        "1781595462": "offline"
+        "1781595462": "offline",
+        "1781665138": "online"
       }
     }
   },
@@ -11925,7 +11941,8 @@
         "1780972393": "offline",
         "1781059600": "online",
         "1781232768": "offline",
-        "1781595462": "online"
+        "1781595462": "online",
+        "1781665138": "offline"
       }
     }
   },
