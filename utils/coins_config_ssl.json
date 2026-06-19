@@ -848,15 +848,6 @@
         },
         "electrum": [
             {
-                "url": "aby-ex-four.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "elec-seeder-one.artbytecoin.org:50012",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -10056,90 +10047,6 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
-    "DPC": {
-        "coin": "DPC",
-        "type": "UTXO",
-        "name": "Dualpowcoin",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "_DPC",
-        "explorer_url": "https://explorerdpc.bitwebcore.net/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Dpowcoin Signed Message:\n",
-        "fname": "Dualpowcoin",
-        "rpcport": 42002,
-        "pubtype": 55,
-        "p2shtype": 28,
-        "wiftype": 128,
-        "segwit": true,
-        "bech32_hrp": "dpc",
-        "txfee": 10000,
-        "mm2": 1,
-        "required_confirmations": 6,
-        "avg_blocktime": 300,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/739'",
-        "links": {
-            "github": "https://github.com/dpowcore-project/dpowcoin",
-            "homepage": "https://dpowcore.org"
-        },
-        "electrum": [
-            {
-                "url": "electrumxdpc.bitwebcore.net:22002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/dpowcore-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumxdpc1.bitwebcore.net:22002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/dpowcore-project/electrumx/issues"
-                    }
-                ]
-            },
-            {
-                "url": "electrumxdpc2.bitwebcore.net:22002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "mraksoll@gmail.com"
-                    },
-                    {
-                        "discord": "mraksoll"
-                    },
-                    {
-                        "github": "https://github.com/dpowcore-project/electrumx/issues"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "DIAC": {
         "coin": "DIAC",
         "type": "UTXO",
@@ -10289,6 +10196,28 @@
             "homepage": "https://diminutivecoin.com"
         },
         "electrum": [
+            {
+                "url": "electrumx1.diminutivecoin.com:50012",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "support@diminutivecoin.com"
+                    },
+                    {
+                        "twitter": "coin_dimi"
+                    },
+                    {
+                        "reddit": "DiminutiveCoin_DIMI"
+                    },
+                    {
+                        "github": "MadCatMining"
+                    },
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.diminutivecoin.com:50012",
                 "protocol": "SSL",
@@ -10471,15 +10400,6 @@
                 ]
             },
             {
-                "url": "elecx.kmsoftware.org:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
                 "url": "elecx1.dingocoin.com:3342",
                 "protocol": "SSL",
                 "contact": [
@@ -10508,15 +10428,6 @@
             },
             {
                 "url": "seed3.dingocoin.com:3342",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "115619332448321541"
-                    }
-                ]
-            },
-            {
-                "url": "seed5.dingocoin.com:3342",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -14240,6 +14151,15 @@
         },
         "electrum": [
             {
+                "url": "electrum-flc.hashboard.space:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "listing@hashboard.space"
+                    }
+                ]
+            },
+            {
                 "url": "electrum.myfloki.com:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -14292,6 +14212,15 @@
             "homepage": "https://flokicoin.org"
         },
         "electrum": [
+            {
+                "url": "electrum-flc.hashboard.space:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "listing@hashboard.space"
+                    }
+                ]
+            },
             {
                 "url": "electrum.myfloki.com:50002",
                 "protocol": "SSL",
@@ -16308,6 +16237,15 @@
                 "contact": [
                     {
                         "discord": "orpheas#1503"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.niftybakes.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "405566674448810005"
                     }
                 ]
             }
@@ -21023,15 +20961,6 @@
         "derivation_path": "m/44'/192'",
         "electrum": [
             {
-                "url": "electrum-lcc.cascoin.net:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "635448663543644170"
-                    }
-                ]
-            },
-            {
                 "url": "electrumx.litecoincash.com.br:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -21091,15 +21020,6 @@
         },
         "derivation_path": "m/84'/192'",
         "electrum": [
-            {
-                "url": "electrum-lcc.cascoin.net:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "635448663543644170"
-                    }
-                ]
-            },
             {
                 "url": "electrumx.litecoincash.com.br:50002",
                 "protocol": "SSL",
@@ -26115,6 +26035,15 @@
         },
         "electrum": [
             {
+                "url": "electrum.pepe.tips:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "squidicuz"
+                    }
+                ]
+            },
+            {
                 "url": "electrum.pepeblocks.com:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -27572,21 +27501,7 @@
             "github": "https://github.com/trumpowppc/trumpow",
             "homepage": "https://trumpow.meme"
         },
-        "electrum": [
-            {
-                "url": "electrum-server2.trumpow.meme:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": [
-                            "1157581316175437884",
-                            "1100673536743460894",
-                            "1209163889489616998"
-                        ]
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block/"
     },
     "QC-QRC20": {
@@ -37504,15 +37419,6 @@
             {
                 "url": "electrumx2.vanillacash.info:50012",
                 "protocol": "SSL"
-            },
-            {
-                "url": "xvc-ex-seven.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -38673,26 +38579,7 @@
             "github": "https://github.com/WikiMin3R/ZetacoinE",
             "homepage": "https://zetacoin.io"
         },
-        "electrum": [
-            {
-                "url": "zet-ex-four.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "zet-ex-three.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
         "explorer_block_url": "block.dws?"
     },
     "ZIL-BEP20": {
@@ -42666,6 +42553,51 @@
                         "discord": "635448663543644170"
                     }
                 ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "JUMP": {
+        "coin": "JUMP",
+        "type": "UTXO",
+        "name": "Jumpcoin",
+        "coinpaprika_id": "jump-jumpcoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_JUMP",
+        "explorer_url": "https://explorer.jumpcoin.net/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Jumpcoin Signed Message:\n",
+        "fname": "Jumpcoin",
+        "isPoS": 1,
+        "rpcport": 31240,
+        "pubtype": 43,
+        "p2shtype": 122,
+        "wiftype": 171,
+        "txfee": 10000,
+        "dust": 10000,
+        "mm2": 1,
+        "mature_confirmations": 100,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/278'",
+        "links": {
+            "homepage": "https://jumpcoin.net",
+            "explorer": "https://explorer.jumpcoin.net",
+            "github": "https://github.com/jumpcoin"
+        },
+        "electrum": [
+            {
+                "url": "electrum1.jumpcoin.net:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
