@@ -10281,7 +10281,7 @@
     }
   },
   {
-    "coin": "PART",
+    "coin": "PART-segwit",
     "name": "particl",
     "fname": "Particl",
     "is_privacy_coin": true,
