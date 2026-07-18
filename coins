@@ -10265,6 +10265,7 @@
     "p2shtype": 60,
     "wiftype": 108,
     "txfee": 200000,
+    "dust": 5460,
     "segwit": true,
     "bech32_hrp": "pw",
     "mm2": 1,
@@ -10291,6 +10292,7 @@
     "p2shtype": 60,
     "wiftype": 108,
     "txfee": 200000,
+    "dust": 5460,
     "segwit": true,
     "bech32_hrp": "pw",
     "address_format": {
