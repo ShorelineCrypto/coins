@@ -10265,47 +10265,13 @@
     "p2shtype": 60,
     "wiftype": 108,
     "txfee": 200000,
-    "dust": 5460,
-    "segwit": true,
-    "bech32_hrp": "pw",
     "mm2": 1,
-    "wallet_only": false,
     "required_confirmations": 2,
     "avg_blocktime": 120,
     "protocol": {
       "type": "UTXO"
     },
     "derivation_path": "m/44'/44'",
-    "links": {
-      "github": "https://github.com/particl/particl-core",
-      "homepage": "https://particl.io"
-    }
-  },
-  {
-    "coin": "PART-segwit",
-    "name": "particl",
-    "fname": "Particl",
-    "is_privacy_coin": true,
-    "sign_message_prefix": "Particl Signed Message:\n",
-    "rpcport": 51735,
-    "pubtype": 56,
-    "p2shtype": 60,
-    "wiftype": 108,
-    "txfee": 200000,
-    "dust": 5460,
-    "segwit": true,
-    "bech32_hrp": "pw",
-    "address_format": {
-      "format": "segwit"
-    },
-    "orderbook_ticker": "PART",
-    "mm2": 1,
-    "required_confirmations": 2,
-    "avg_blocktime": 120,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "derivation_path": "m/84'/44'",
     "links": {
       "github": "https://github.com/particl/particl-core",
       "homepage": "https://particl.io"
