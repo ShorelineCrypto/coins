@@ -1774,6 +1774,32 @@
     "derivation_path": "m/44'/1'"
   },
   {
+    "coin": "BLOZ",
+    "name": "blockzero",
+    "fname": "Blockzero",
+    "rpcport": 8332,
+    "pubtype": 25,
+    "p2shtype": 85,
+    "wiftype": 153,
+    "txversion": 2,
+    "txfee": 10000,
+    "segwit": true,
+    "bech32_hrp": "bz",
+    "derivation_path": "m/44'/0'",
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "mm2": 1,
+    "required_confirmations": 2,
+    "mature_confirmations": 100,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO",
+      "chain_variant": "BTC"
+    },
+    "links": {
+      "github": "https://github.com/Rexemre/blockzero-core"
+    }
+  },
+  {
     "coin": "BNB",
     "name": "binancesmartchain",
     "fname": "Binance Coin",
@@ -2305,6 +2331,37 @@
       "type": "UTXO"
     },
     "derivation_path": "m/44'/18888'",
+    "links": {
+      "github": "https://github.com/BTGSCOINDEV/BTGS",
+      "homepage": "https://bitcoingold.site",
+      "homepage2": "https://btgscoin.site"
+    }
+  },
+  {
+    "coin": "BTGS-segwit",
+    "name": "bitcoingold",
+    "fname": "Bitcoin Gold BTGS",
+    "sign_message_prefix": "BitcoinGold Signed Message:\n",
+    "rpcport": 18888,
+    "pubtype": 38,
+    "p2shtype": 22,
+    "wiftype": 176,
+    "fork_id": "0x00",
+    "signature_version": "base",
+    "txfee": 1000,
+    "segwit": true,
+    "bech32_hrp": "bcg",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "BTGS",
+    "mm2": 1,
+    "required_confirmations": 3,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/84'/18888'",
     "links": {
       "github": "https://github.com/BTGSCOINDEV/BTGS",
       "homepage": "https://bitcoingold.site",
@@ -3652,7 +3709,7 @@
     "coin": "DIME",
     "name": "dimecoin",
     "fname": "Dimecoin",
-    "rpcport": 11931,
+    "rpcport": 8332,
     "pubtype": 15,
     "p2shtype": 9,
     "wiftype": 143,
@@ -5608,6 +5665,28 @@
       }
     },
     "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "GENIUS-BEP20",
+    "name": "genius_bep20",
+    "fname": "Genius",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 56,
+    "decimals": 18,
+    "avg_blocktime": 0.45,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "BNB",
+        "contract_address": "0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6"
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://tradegenius.com"
+    }
   },
   {
     "coin": "GFT-BEP20",
@@ -10472,6 +10551,7 @@
       "type": "UTXO"
     },
     "derivation_path": "m/44'/512'",
+    "trezor_coin": "Radiant",
     "links": {
       "github": "https://github.com/Radiant-Core/Radiant-Core",
       "homepage": "https://radiantblockchain.org"
@@ -14082,7 +14162,7 @@
     "overwintered": 1,
     "version_group_id": "0x892f2085",
     "consensus_branch_id": "0x37a5165b",
-    "txfee": 100000,
+    "txfee": 50000,
     "mm2": 1,
     "required_confirmations": 3,
     "avg_blocktime": 75,

@@ -1766,5 +1766,13 @@
   "zama.png": {
     "original": "5bd11ee9a8e32860c47ba85feb2603c6fb26fbe74605169717b64a28251a1dd7",
     "processed": "6e2eba6d46ea82adbfb043a460e9f17dad93d97ac8cfa1e9e39f1017342df10b"
+  },
+  "bloz.png": {
+    "original": "5c153aaac5ba3ec6235aae459a42b7331cd160abae276951326a844aad7a46fd",
+    "processed": "28b1f237495af68483cabd9d2571947d8f3abf5432cc8dc3afe550c7e89a870a"
+  },
+  "genius.png": {
+    "original": "84c34ac5f70acea313705678db2d3850683af4a7a3913d19006b56ed34c5ac03",
+    "processed": "0d22b277985b0d9072a79371c404521546d5142f9dbde4c12c0af90ac07f9c1c"
   }
 }
