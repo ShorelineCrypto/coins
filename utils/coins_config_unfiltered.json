@@ -209,15 +209,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -522,15 +522,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -874,15 +874,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -1069,15 +1069,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -1226,15 +1226,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -1391,15 +1391,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -1554,15 +1554,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -2103,15 +2103,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -2465,15 +2465,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -2694,15 +2694,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -2967,15 +2967,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -3233,15 +3233,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -3343,15 +3343,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -4123,15 +4123,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -4446,15 +4446,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -4493,6 +4493,33 @@
             "type": "UTXO"
         },
         "electrum": [
+            {
+                "url": "bit-e.minethepla.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
             {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
@@ -5342,15 +5369,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -5546,15 +5573,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -5656,15 +5683,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -5867,15 +5894,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -6404,6 +6431,24 @@
             },
             {
                 "url": "electrum2.btcz.rocks:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "517255090633965586"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.btcz.rocks:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "517255090633965586"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.btcz.rocks:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -6971,15 +7016,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -7452,15 +7497,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -7839,15 +7884,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -7950,15 +7995,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -8490,15 +8535,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -8983,15 +9028,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -9133,15 +9178,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -9399,15 +9444,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -9765,15 +9810,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -10030,15 +10075,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -10313,15 +10358,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -10365,15 +10410,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -10776,15 +10821,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -11733,15 +11778,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -13030,15 +13075,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -13193,15 +13238,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -13292,15 +13337,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -13511,15 +13556,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -13887,15 +13932,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14144,15 +14189,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14247,15 +14292,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14413,15 +14458,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14565,15 +14610,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14620,15 +14665,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14737,15 +14782,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14789,15 +14834,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -14980,7 +15025,7 @@
         "coin": "FIL-ERC20",
         "type": "ERC-20",
         "name": "Filecoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "fil-filecoin",
         "coingecko_id": "filecoin",
         "livecoinwatch_id": "FIL",
         "explorer_url": "https://etherscan.io/",
@@ -15012,15 +15057,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -16356,15 +16401,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -16470,15 +16515,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -16631,15 +16676,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -16683,15 +16728,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -17343,15 +17388,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -17726,15 +17771,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -17782,15 +17827,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -18105,15 +18150,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -18413,15 +18458,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -18619,15 +18664,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -18671,15 +18716,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -18787,15 +18832,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -18893,15 +18938,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -19083,15 +19128,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -19373,15 +19418,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -19487,15 +19532,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -19599,15 +19644,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -19827,15 +19872,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -20113,8 +20158,128 @@
             "github": "https://github.com/kylacoin/kylacoin",
             "homepage": "https://kylacoin.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum1.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "KCN-segwit": {
@@ -20158,8 +20323,128 @@
             "github": "https://github.com/kylacoin/kylacoin",
             "homepage": "https://kylacoin.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum1.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "KCN-BEP20": {
@@ -20410,8 +20695,8 @@
         "consensus_branch_id": "0x64726d6e",
         "txfee": 1000,
         "mm2": 1,
-        "required_confirmations": 2,
-        "requires_notarization": true,
+        "required_confirmations": 5,
+        "requires_notarization": false,
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
@@ -20638,15 +20923,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -21290,6 +21575,102 @@
                         "discord": "jaybitron"
                     }
                 ]
+            },
+            {
+                "url": "electrum2.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -21350,6 +21731,102 @@
             },
             {
                 "url": "electrum1.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.lcnxp.com:52004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.lcnxp.com:52002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.lcnxp.com:52004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21461,15 +21938,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -21571,15 +22048,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -21622,15 +22099,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -22002,15 +22479,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -22115,15 +22592,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -22172,15 +22649,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -22289,15 +22766,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -22762,15 +23239,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -23024,15 +23501,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -23286,15 +23763,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -23647,15 +24124,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -23703,15 +24180,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -23811,15 +24288,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -24034,15 +24511,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -24187,15 +24664,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -24522,15 +24999,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -24628,15 +25105,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -24819,8 +25296,24 @@
             "chain_variant": "BTC"
         },
         "derivation_path": "m/44'/130'",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum2.nav.community:40002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum2.nav.community:40004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrum3.nav.community:40002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum3.nav.community:40004",
+                "protocol": "WSS"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "NAV-BEP20": {
@@ -25181,15 +25674,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -25889,15 +26382,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -26062,15 +26555,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -26117,15 +26610,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -26280,15 +26773,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -26590,15 +27083,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -26701,15 +27194,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -27179,15 +27672,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -27289,15 +27782,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -27395,15 +27888,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -27588,15 +28081,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -27694,15 +28187,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -27858,15 +28351,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -28489,15 +28982,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -28546,15 +29039,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -28824,15 +29317,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -29157,15 +29650,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -29212,15 +29705,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -29264,15 +29757,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -30048,15 +30541,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -30100,15 +30593,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -30206,15 +30699,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -30362,15 +30855,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -30735,15 +31228,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -31024,15 +31517,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -31191,15 +31684,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -31450,15 +31943,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -31717,15 +32210,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -31943,15 +32436,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -32203,15 +32696,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -32305,15 +32798,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -32525,15 +33018,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -32855,15 +33348,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -33062,15 +33555,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -33250,15 +33743,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -33572,15 +34065,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -34163,15 +34656,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -34275,15 +34768,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -34540,15 +35033,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -34757,15 +35250,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -34922,15 +35415,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -35351,15 +35844,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -35727,15 +36220,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -35782,15 +36275,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -36170,15 +36663,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -36688,15 +37181,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -36740,15 +37233,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -36883,15 +37376,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -37533,15 +38026,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -37639,15 +38132,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -37691,15 +38184,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -37962,15 +38455,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -38230,15 +38723,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -38588,15 +39081,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -39197,15 +39690,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -39357,15 +39850,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -39524,6 +40017,18 @@
             "homepage": "https://vanillacash.org"
         },
         "electrum": [
+            {
+                "url": "electrumx1.vanillacash.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50013",
+                "protocol": "WSS"
+            },
             {
                 "url": "electrumx2.vanillacash.info:50011",
                 "protocol": "TCP"
@@ -40023,15 +40528,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -40233,15 +40738,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -40288,15 +40793,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -40553,15 +41058,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41207,15 +41712,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41428,15 +41933,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41666,15 +42171,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41722,15 +42227,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41811,15 +42316,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41868,15 +42373,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41920,15 +42425,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -41972,15 +42477,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42028,15 +42533,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42085,15 +42590,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42141,15 +42646,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42198,15 +42703,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42250,15 +42755,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42306,15 +42811,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42363,15 +42868,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42415,15 +42920,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42467,15 +42972,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42523,15 +43028,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42575,15 +43080,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42627,15 +43132,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -42735,15 +43240,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -43254,6 +43759,42 @@
                         "discord": "Bago#7842"
                     }
                 ]
+            },
+            {
+                "url": "electrum3.runebase.io:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.runebase.io:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@runebase.io"
+                    },
+                    {
+                        "discord": "Bago#7842"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -43350,6 +43891,9 @@
             {
                 "url": "https://cosmos-rpc.publicnode.com",
                 "ws_url": "wss://cosmos-rpc.publicnode.com/websocket"
+            },
+            {
+                "url": "https://rpc.cosmos.directory/cosmoshub"
             }
         ],
         "explorer_block_url": "block/",
@@ -44650,15 +45194,15 @@
         "fallback_swap_contract": "0x24ABE4c71FC658C91313b6552cd40cD808b3Ea80",
         "nodes": [
             {
-                "url": "https://eth1.lava.build"
-            },
-            {
                 "url": "https://ethereum-rpc.publicnode.com",
                 "ws_url": "wss://ethereum-rpc.publicnode.com"
             },
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            },
+            {
+                "url": "https://rpc.fullsend.to"
             },
             {
                 "url": "https://rpc.mevblocker.io"
@@ -45168,15 +45712,6 @@
             {
                 "url": "electrum1.5trat.net:443",
                 "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "axebench.app@gmail.com"
-                    }
-                ]
-            },
-            {
-                "url": "electrum1.5trat.net:50002",
-                "protocol": "SSL",
                 "contact": [
                     {
                         "email": "axebench.app@gmail.com"
