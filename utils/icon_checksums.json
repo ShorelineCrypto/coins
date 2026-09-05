@@ -1774,5 +1774,25 @@
   "genius.png": {
     "original": "84c34ac5f70acea313705678db2d3850683af4a7a3913d19006b56ed34c5ac03",
     "processed": "0d22b277985b0d9072a79371c404521546d5142f9dbde4c12c0af90ac07f9c1c"
+  },
+  "usds.png": {
+    "original": "aa8ea251a968baf1b6601e90b4ac1f1da2512b9822c68596c9c535966bfe1b42",
+    "processed": "f9eb1c9120c918420b7400b4062fbaa377c3df73c6bddea3e125a8dbf59f3b45"
+  },
+  "susds.png": {
+    "original": "807f4a535418f0891c415bfadc82a10e5f6d68e8be9b4de5270a6f03bfb354e8",
+    "processed": "328c445bea67e2621f7cec7362cde44c780aa4393e27c9e2947ac3c05a53095c"
+  },
+  "pcn.png": {
+    "original": "f0a55ac5ecb8c524ef1616b1c96450b9afee3d2bcc80fc53c6a2c12919e71e2c",
+    "processed": "ade89b0c783ab1e88c6fc6f7ac389d4eff364965f3551f8d66e6b14f6984ac49"
+  },
+  "tao.png": {
+    "original": "d01fafd89a52938f8ccc1ac2d6ad07c512d65434fe9a40b46b866a9369e68b28",
+    "processed": "84e4271b239f95a86137544b53711161ac3fa64710dc65d6b2176492c71efeb9"
+  },
+  "kite.png": {
+    "original": "cb9602ac97963e04b2fb889b547d2684fcd76ad99b2e591afd32e4990d81d400",
+    "processed": "14a37f9e1968fa3a4b882b6ac210812cf6bc50be7e084d5628d2c31b8680d342"
   }
 }
