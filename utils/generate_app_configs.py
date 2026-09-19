@@ -34,6 +34,7 @@ BINANCE_DELISTED_COINS = [
     "KMD",
     "LOOM",
     "LRC",
+    "MATIC",
     "MC",
     "MDX",
     "MIR",
@@ -159,10 +160,11 @@ class CoinConfig:
             "ETH-ARB20": "Arbitrum",
             "ETH-BASE": "Base",
             "EWT": "EWT",
+            "FLR": "Flare",
             "GLMR": "Moonbeam",
             "HYPE": "HyperEVM",
             "KCS": "KRC-20",
-            "MATIC": "Matic",
+            "POL": "Polygon",
             "MNT": "Mantle",
             "MON": "Monad",
             "MOVR": "Moonriver",
@@ -173,6 +175,7 @@ class CoinConfig:
             "TAO": "Bittensor",
             "TRX": "TRX",
             "XDAI": "Gnosis",
+            "XDC": "XDC",
             "XPL": "Plasma",
             "ATOM": "TENDERMINT",
             "OSMO": "TENDERMINT",
@@ -185,7 +188,7 @@ class CoinConfig:
             "tQTUM": "QRC-20",
             "IRISTEST": "TENDERMINT",
             "NUCLEUSTEST": "TENDERMINT",
-            "MATICTEST": "Matic",
+            "POLTEST": "Polygon",
             "TRXT": "TRX",
         }
         self.coin_type = coin_data["protocol"]["type"]
@@ -396,7 +399,7 @@ class CoinConfig:
         For token coins, this returns the parent chain coin.
         """
         # For token coins, we need to check parent chain status
-        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-BASE", "-GNO", "-PLG20", "-KRC20", "-ARB20", "-AVX20", "-GRC20", "-HYPE", "-MON", "-MNT", "-TAO", "-TRC20", "-XPL")):
+        if self.ticker.endswith(("-QRC20", "-ERC20", "-BEP20", "-BASE", "-GNO", "-PLG20", "-KRC20", "-ARB20", "-AVX20", "-GRC20", "-FLR", "-HYPE", "-MON", "-MNT", "-TAO", "-TRC20", "-XDC", "-XPL")):
             if self.ticker.endswith("-QRC20"):
                 return "tQTUM" if self.is_testnet else "QTUM"
             elif self.ticker.endswith("-ERC20"):
@@ -404,7 +407,7 @@ class CoinConfig:
             elif self.ticker.endswith("-BEP20"):
                 return "BNB"
             elif self.ticker.endswith("-PLG20"):
-                return "MATIC"
+                return "POL"
             elif self.ticker.endswith("-KRC20"):
                 return "KCS"
             elif self.ticker.endswith("-TRC20"):
@@ -415,6 +418,8 @@ class CoinConfig:
                 return "ETH-ARB20"
             elif self.ticker.endswith("-GRC20"):
                 return "GLEEC"
+            elif self.ticker.endswith("-FLR"):
+                return "FLR"
             elif self.ticker.endswith("-HYPE"):
                 return "HYPE"
             elif self.ticker.endswith("-BASE"):
@@ -427,6 +432,8 @@ class CoinConfig:
                 return "MON"
             elif self.ticker.endswith("-TAO"):
                 return "TAO"
+            elif self.ticker.endswith("-XDC"):
+                return "XDC"
             elif self.ticker.endswith("-XPL"):
                 return "XPL"
 
