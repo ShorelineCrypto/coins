@@ -12,6 +12,30 @@
         ]
     },
     {
+        "name": "swapscope-seed",
+        "host": "seed02.swapscope.net",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "bluefren-seed",
+        "host": "defi.bluefren.net",
+        "type": "domain",
+        "wss": false,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
         "name": "seed-kmdefi-2",
         "host": "seed02.kmdefi.net",
         "type": "domain",
