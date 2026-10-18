@@ -2,13 +2,13 @@ name: Validate Seed Nodes Configuration
 
 on:
   push:
-    branches: ["cheetah", "cheetahdex"]
+    branches: ["cheetah"]
     paths:
       - "seed-nodes.json"
       - "utils/seed_nodes_schema.json"
       - "utils/validate_seed_nodes.py"
   pull_request:
-    branches: ["cheetah", "cheetahdex"]
+    branches: ["cheetah"]
     paths:
       - "seed-nodes.json"
       - "utils/seed_nodes_schema.json"
