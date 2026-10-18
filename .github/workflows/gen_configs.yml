@@ -2,7 +2,7 @@ name: Update Coin Configs and create 128x128 images in icons dir
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "cheetah" ]
     paths-ignore:
       - 'utils/*.json'
       - 'utils/spritemap.png'
@@ -16,7 +16,7 @@ on:
       target_branch:
         description: Branch to run against and target for PR
         required: true
-        default: master
+        default: cheetah
         type: string
 
 jobs:
@@ -78,5 +78,5 @@ jobs:
             - Icon spritemap updated
           labels: |
             config-update
-          reviewers: cipig
+          reviewers: ShorelineCrypto
           draft: false

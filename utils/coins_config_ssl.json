@@ -4119,11 +4119,38 @@
         },
         "electrum": [
             {
+                "url": "bit-e.minethepla.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bitn-electrumx.wattxchange.app:50012",
                 "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "nucash"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
                     }
                 ]
             }
@@ -5357,6 +5384,10 @@
             "homepage": "https://globalboo.st"
         },
         "electrum": [
+            {
+                "url": "electrumserver01.globalboost.info:50014",
+                "protocol": "SSL"
+            },
             {
                 "url": "electrumserver02.globalboost.info:50014",
                 "protocol": "SSL"
@@ -23034,9 +23065,6 @@
             {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://public.1rpc.io/glmr"
             }
         ],
         "explorer_block_url": "block/",
@@ -33876,6 +33904,10 @@
             },
             {
                 "url": "https://rpc.xdc.network"
+            },
+            {
+                "url": "https://rpc.xdcrpc.com",
+                "ws_url": "wss://rpc.xdcrpc.com/ws"
             }
         ],
         "explorer_block_url": "block/"
@@ -37357,6 +37389,10 @@
             },
             {
                 "url": "https://rpc.xdc.network"
+            },
+            {
+                "url": "https://rpc.xdcrpc.com",
+                "ws_url": "wss://rpc.xdcrpc.com/ws"
             }
         ],
         "explorer_block_url": "block/"
