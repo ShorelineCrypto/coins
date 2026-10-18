@@ -2879,6 +2879,11 @@
     "protocol": {
       "type": "UTXO"
     },
+    "utxo_merge_params": {
+      "merge_at": 50,
+      "check_every": 1000,
+      "max_merge_at_once": 40
+    }
     "derivation_path": "m/44'/682'",
     "links": {
       "github": "https://github.com/ShorelineCrypto/cheetahcoin",
@@ -9209,6 +9214,11 @@
     "protocol": {
       "type": "UTXO"
     },
+    "utxo_merge_params": {
+      "merge_at": 50,
+      "check_every": 1000,
+      "max_merge_at_once": 40
+    }
     "derivation_path": "m/44'/681'",
     "links": {
       "github": "https://github.com/ShorelineCrypto/nengcoin",
