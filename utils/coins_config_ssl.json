@@ -4119,11 +4119,29 @@
         },
         "electrum": [
             {
+                "url": "bit-e.minethepla.net:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bitn-electrumx.wattxchange.app:50012",
                 "protocol": "SSL",
                 "contact": [
                     {
                         "discord": "nucash"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
                     }
                 ]
             }
@@ -5357,6 +5375,10 @@
             "homepage": "https://globalboo.st"
         },
         "electrum": [
+            {
+                "url": "electrumserver01.globalboost.info:50014",
+                "protocol": "SSL"
+            },
             {
                 "url": "electrumserver02.globalboost.info:50014",
                 "protocol": "SSL"
@@ -22985,9 +23007,6 @@
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/1285"
-            },
-            {
                 "url": "https://moonriver.api.onfinality.io/public",
                 "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
             }
@@ -23034,9 +23053,6 @@
             {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://public.1rpc.io/glmr"
             }
         ],
         "explorer_block_url": "block/",
@@ -24340,9 +24356,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://1rpc.io/one"
-            },
             {
                 "url": "https://api.harmony.one"
             },
@@ -33876,6 +33889,10 @@
             },
             {
                 "url": "https://rpc.xdc.network"
+            },
+            {
+                "url": "https://rpc.xdcrpc.com",
+                "ws_url": "wss://rpc.xdcrpc.com/ws"
             }
         ],
         "explorer_block_url": "block/"
@@ -37357,6 +37374,10 @@
             },
             {
                 "url": "https://rpc.xdc.network"
+            },
+            {
+                "url": "https://rpc.xdcrpc.com",
+                "ws_url": "wss://rpc.xdcrpc.com/ws"
             }
         ],
         "explorer_block_url": "block/"
