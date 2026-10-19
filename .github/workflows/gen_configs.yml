@@ -2,7 +2,7 @@ name: Update Coin Configs and create 128x128 images in icons dir
 
 on:
   push:
-    branches: [ "cheetah" ]
+    branches: [ "cheetahdex" ]
     paths-ignore:
       - 'utils/*.json'
       - 'utils/spritemap.png'
@@ -16,7 +16,7 @@ on:
       target_branch:
         description: Branch to run against and target for PR
         required: true
-        default: cheetah
+        default: cheetahdex
         type: string
 
 jobs:
