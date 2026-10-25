@@ -1552,7 +1552,7 @@
         "coinpaprika_id": "arrr-pirate",
         "coingecko_id": "pirate-chain",
         "livecoinwatch_id": "ARRR",
-        "explorer_url": "https://pirate.explorer.dexstats.info/",
+        "explorer_url": "https://explorer.piratechain.com",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
@@ -1561,19 +1561,19 @@
         "currently_enabled": false,
         "wallet_only": false,
         "light_wallet_d_servers": [
+            "https://lightwalletd1.cryptoforge.cc:443",
+            "https://lightwalletd2.cryptoforge.cc:443",
+            "https://pirate.mathnodes.com:443",
+            "https://arrr.qortal.link:443",
+            "https://arrr2.qortal.link:443",
+            "https://arrr3.qortal.link:443",
             "https://lightd1.pirate.black:443",
-            "https://piratelightd1.cryptoforge.cc:443",
-            "https://piratelightd2.cryptoforge.cc:443",
-            "https://piratelightd3.cryptoforge.cc:443",
-            "https://piratelightd4.cryptoforge.cc:443",
             "https://electrum1.cipig.net:9447",
-            "https://electrum2.cipig.net:9447",
-            "https://electrum3.cipig.net:9447"
+            "https://electrum2.cipig.net:9447"
         ],
         "light_wallet_d_servers_wss": [
             "https://electrum1.cipig.net:19447",
-            "https://electrum2.cipig.net:19447",
-            "https://electrum3.cipig.net:19447"
+            "https://electrum2.cipig.net:19447"
         ],
         "asset": "PIRATE",
         "fname": "Pirate",
@@ -1588,6 +1588,7 @@
                 "consensus_params": {
                     "overwinter_activation_height": 152855,
                     "sapling_activation_height": 152855,
+                    "ironwood_activation_height": 4161185,
                     "blossom_activation_height": null,
                     "heartwood_activation_height": null,
                     "canopy_activation_height": null,
@@ -3998,35 +3999,8 @@
             "github": "https://github.com/BitBlocksProject/BitBlocks",
             "homepage": "https://bitblocksproject.com"
         },
-        "electrum": [
-            {
-                "url": "bbk-ex-three.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "bbk-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "bbk-ex-three.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block.dws?"
     },
     "BBK-BEP20": {
@@ -4614,6 +4588,24 @@
                         "discord": "nucash"
                     }
                 ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -5080,9 +5072,9 @@
         "coin": "BLOZ",
         "type": "UTXO",
         "name": "Blockzero",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "bloz-block-zero",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "BLOZ",
         "explorer_url": "https://explorer.bloz.org/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -5169,9 +5161,9 @@
         "coin": "BLOZ-segwit",
         "type": "UTXO",
         "name": "Blockzero",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "bloz-block-zero",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "BLOZ",
         "explorer_url": "https://explorer.bloz.org/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -6095,6 +6087,18 @@
         },
         "electrum": [
             {
+                "url": "electrumserver01.globalboost.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumserver01.globalboost.info:50013",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumserver01.globalboost.info:50014",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrumserver02.globalboost.info:50011",
                 "protocol": "TCP"
             },
@@ -6437,42 +6441,6 @@
         },
         "derivation_path": "m/44'/177'",
         "electrum": [
-            {
-                "url": "electrum1.btcz.rocks:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "517255090633965586"
-                    }
-                ]
-            },
-            {
-                "url": "electrum1.btcz.rocks:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "517255090633965586"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.btcz.rocks:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "517255090633965586"
-                    }
-                ]
-            },
-            {
-                "url": "electrum2.btcz.rocks:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "517255090633965586"
-                    }
-                ]
-            },
             {
                 "url": "electrum4.btcz.rocks:50002",
                 "protocol": "SSL",
@@ -8492,11 +8460,6 @@
         "avg_blocktime": 120,
         "protocol": {
             "type": "UTXO"
-        },
-        "utxo_merge_params": {
-            "merge_at": 50,
-            "check_every": 1000,
-            "max_merge_at_once": 40
         },
         "derivation_path": "m/44'/682'",
         "links": {
@@ -16568,6 +16531,10 @@
         },
         "electrum": [
             {
+                "url": "electrumx.runonflux.io:50001",
+                "protocol": "TCP"
+            },
+            {
                 "url": "electrumx2.runonflux.io:50001",
                 "protocol": "TCP"
             }
@@ -21061,8 +21028,128 @@
             "github": "https://github.com/kylacoin/kylacoin",
             "homepage": "https://kylacoin.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum1.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "KCN-segwit": {
@@ -21106,8 +21193,128 @@
             "github": "https://github.com/kylacoin/kylacoin",
             "homepage": "https://kylacoin.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum1.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum4.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            },
+            {
+                "url": "electrum5.kcnxp.com:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "jaybitron@gmail.com"
+                    },
+                    {
+                        "discord": "jaybitron"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "KCN-BEP20": {
@@ -22336,33 +22543,6 @@
                         "discord": "808803920818208801"
                     }
                 ]
-            },
-            {
-                "url": "lcc-ex-one.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "lcc-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "lcc-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -22430,33 +22610,6 @@
                 "contact": [
                     {
                         "discord": "808803920818208801"
-                    }
-                ]
-            },
-            {
-                "url": "lcc-ex-one.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "lcc-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "lcc-ex-one.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
                     }
                 ]
             }
@@ -26611,9 +26764,6 @@
             {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://public.1rpc.io/glmr"
             }
         ],
         "explorer_block_url": "block/",
@@ -26816,11 +26966,6 @@
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
-        },
-        "utxo_merge_params": {
-            "merge_at": 50,
-            "check_every": 1000,
-            "max_merge_at_once": 40
         },
         "derivation_path": "m/44'/681'",
         "links": {
@@ -29063,6 +29208,33 @@
         "derivation_path": "m/44'/119'",
         "electrum": [
             {
+                "url": "electrum01.chainster.org:50001",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum01.chainster.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
+            {
+                "url": "electrum01.chainster.org:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "312541186793406465"
+                    }
+                ]
+            },
+            {
                 "url": "electrum02.chainster.org:50001",
                 "contact": [
                     {
@@ -30225,8 +30397,35 @@
             "github": "https://github.com/shibacoinppc/shibacoin",
             "homepage": "https://shibapow.org/"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.shibacoinshic.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.shibacoinshic.org:50002",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.shibacoinshic.org:50003",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "1157581316175437884"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "TRMP": {
@@ -35480,6 +35679,9 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -38615,6 +38817,9 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
+            {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
@@ -43172,9 +43377,6 @@
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
             {
-                "url": "https://9745.rpc.thirdweb.com"
-            },
-            {
                 "url": "https://plasma.api.onfinality.io/public"
             },
             {
@@ -43741,20 +43943,8 @@
             "github": "https://github.com/WikiMin3R/Vanillacash",
             "homepage": "https://vanillacash.org"
         },
-        "electrum": [
-            {
-                "url": "electrumx2.vanillacash.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrumx2.vanillacash.info:50013",
-                "protocol": "WSS"
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block.dws?"
     },
     "XVC-BEP20": {
@@ -46837,9 +47027,9 @@
         "coin": "WAM",
         "type": "UTXO",
         "name": "WAM Coin",
-        "coinpaprika_id": "wam-wam",
+        "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "WAM",
+        "livecoinwatch_id": "",
         "explorer_url": "https://explorer.wamcoin.org/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
