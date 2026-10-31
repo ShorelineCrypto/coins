@@ -793,7 +793,8 @@
         "1790298184": "online",
         "1790654422": "offline",
         "1792682147": "online",
-        "1792900347": "offline"
+        "1792900347": "offline",
+        "1793415848": "online"
       },
       "bit-e.minethepla.net:50004": {
         "1790192356": "offline",
@@ -811,7 +812,8 @@
         "1790201299": "online",
         "1791946911": "offline",
         "1792682147": "online",
-        "1792900347": "offline"
+        "1792900347": "offline",
+        "1793415848": "online"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1790192356": "offline",
@@ -1844,7 +1846,8 @@
     "all": {
       "1790192356": "online",
       "1790654422": "offline",
-      "1791946911": "online"
+      "1791946911": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -1882,17 +1885,20 @@
       "v2.cryptocollider.com:10001": {
         "1790192356": "online",
         "1790654422": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       },
       "v2.cryptocollider.com:5001": {
         "1790192356": "online",
         "1790654422": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       },
       "v2.cryptocollider.com:8443": {
         "1790192356": "online",
         "1790654422": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       }
     }
   },
@@ -2022,10 +2028,25 @@
   },
   "CY": {
     "all": {
-      "1790192356": "online"
+      "1790192356": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "_metadata": {
+        "electrum02.cyberyen.work:50002": {
+          "contact": [
+            {
+              "support_chat": "https://matrix.to/#/#cyberyen-support:matrix.org"
+            }
+          ]
+        },
+        "electrum02.cyberyen.work:50004": {
+          "contact": [
+            {
+              "support_chat": "https://matrix.to/#/#cyberyen-support:matrix.org"
+            }
+          ]
+        },
         "electrum03.cyberyen.work:50002": {
           "contact": [
             {
@@ -2042,10 +2063,12 @@
         }
       },
       "electrum02.cyberyen.work:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum02.cyberyen.work:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum03.cyberyen.work:50002": {
         "1790192356": "online",
@@ -2059,10 +2082,25 @@
   },
   "CY-segwit": {
     "all": {
-      "1790192356": "online"
+      "1790192356": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "_metadata": {
+        "electrum02.cyberyen.work:50002": {
+          "contact": [
+            {
+              "support_chat": "https://matrix.to/#/#cyberyen-support:matrix.org"
+            }
+          ]
+        },
+        "electrum02.cyberyen.work:50004": {
+          "contact": [
+            {
+              "support_chat": "https://matrix.to/#/#cyberyen-support:matrix.org"
+            }
+          ]
+        },
         "electrum03.cyberyen.work:50002": {
           "contact": [
             {
@@ -2079,10 +2117,12 @@
         }
       },
       "electrum02.cyberyen.work:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum02.cyberyen.work:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum03.cyberyen.work:50002": {
         "1790192356": "online",
@@ -3477,15 +3517,18 @@
       },
       "electrumx1.fujicoin.org:50001": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrumx1.fujicoin.org:50003": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrumx1.fujicoin.org:50005": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrumx2.fujicoin.org:50001": {
         "1790192356": "online"
@@ -3528,15 +3571,18 @@
       },
       "electrumx1.fujicoin.org:50001": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrumx1.fujicoin.org:50003": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrumx1.fujicoin.org:50005": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrumx2.fujicoin.org:50001": {
         "1790192356": "online"
@@ -4039,7 +4085,8 @@
   "HTH": {
     "all": {
       "1790192356": "offline",
-      "1791946911": "online"
+      "1791946911": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -4081,23 +4128,28 @@
       },
       "electrum.hth.foundation:50001": {
         "1790192356": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       },
       "electrum.hth.foundation:50002": {
         "1790192356": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       },
       "electrum.hth.foundation:50004": {
         "1790192356": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       },
       "electrumx.wattxchange.app:50002": {
         "1790192356": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       },
       "electrumx.wattxchange.app:50004": {
         "1790192356": "offline",
-        "1791946911": "online"
+        "1791946911": "online",
+        "1793415848": "offline"
       }
     }
   },
@@ -4350,7 +4402,8 @@
     "all": {
       "1790192356": "online",
       "1791946911": "offline",
-      "1792165782": "online"
+      "1792165782": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -4458,47 +4511,57 @@
       "electrum1.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum1.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum2.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum2.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum3.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum3.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum4.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum4.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum5.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum5.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       }
     }
   },
@@ -4506,7 +4569,8 @@
     "all": {
       "1790192356": "online",
       "1791946911": "offline",
-      "1792165782": "online"
+      "1792165782": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -4614,47 +4678,57 @@
       "electrum1.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum1.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum2.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum2.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum3.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum3.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum4.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum4.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum5.kcnxp.com:51002": {
         "1790192356": "online",
         "1791946911": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       },
       "electrum5.kcnxp.com:51004": {
         "1790192356": "offline",
-        "1792165782": "online"
+        "1792165782": "online",
+        "1793415848": "offline"
       }
     }
   },
@@ -4777,17 +4851,21 @@
   },
   "KMDCL": {
     "all": {
-      "1790192356": "online"
+      "1790192356": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "electrum.kmdclassic.com:50001": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum.kmdclassic.com:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum.kmdclassic.com:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       }
     }
   },
@@ -5524,38 +5602,49 @@
   },
   "LYNX": {
     "all": {
-      "1790192356": "online"
+      "1790192356": "online",
+      "1793415848": "offline"
     },
     "by_server": {
       "electrum5.getlynx.io:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum5.getlynx.io:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum6.getlynx.io:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum6.getlynx.io:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum7.getlynx.io:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum7.getlynx.io:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum8.getlynx.io:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum8.getlynx.io:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum9.getlynx.io:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "electrum9.getlynx.io:50004": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       }
     }
   },
@@ -6363,7 +6452,8 @@
     "by_server": {
       "https://1rpc.io/one": {
         "1790192356": "offline",
-        "1790201299": "online"
+        "1790201299": "online",
+        "1793415848": "offline"
       },
       "https://api.harmony.one": {
         "1790192356": "online"
@@ -6490,15 +6580,18 @@
       },
       "electrum.pepeblocks.com:50001": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrum.pepeblocks.com:50002": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrum.pepeblocks.com:50004": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "pep.electrum3.cipig.net:20076": {
         "1790192356": "offline"
@@ -7157,15 +7250,18 @@
       },
       "electrum3.runebase.io:50001": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrum3.runebase.io:50002": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrum3.runebase.io:50004": {
         "1790192356": "online",
-        "1792682147": "offline"
+        "1792682147": "offline",
+        "1793415848": "online"
       },
       "electrum4.runebase.io:50001": {
         "1790192356": "offline"
@@ -7976,13 +8072,15 @@
         "1790192356": "offline",
         "1790298184": "online",
         "1792682147": "offline",
-        "1792900347": "online"
+        "1792900347": "online",
+        "1793415848": "offline"
       },
       "uno-bkp.coinmunity.gold:50003": {
         "1790192356": "offline",
         "1790298184": "online",
         "1792682147": "offline",
-        "1792900347": "online"
+        "1792900347": "online",
+        "1793415848": "offline"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1790192356": "online"
@@ -7994,10 +8092,12 @@
         "1790192356": "offline"
       },
       "uno-main.coinmunity.gold:50002": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       },
       "uno-main.coinmunity.gold:50003": {
-        "1790192356": "online"
+        "1790192356": "online",
+        "1793415848": "offline"
       }
     }
   },
@@ -8743,7 +8843,8 @@
       },
       "electrumx.primecoin.org:50001": {
         "1790192356": "online",
-        "1792165782": "offline"
+        "1792165782": "offline",
+        "1793415848": "online"
       },
       "electrumx.xpm.systems:50002": {
         "1790192356": "online"
