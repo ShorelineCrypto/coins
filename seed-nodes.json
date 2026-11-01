@@ -1,41 +1,5 @@
 [
     {
-        "name": "cheetah-seed",
-        "host": "mm2seed.shorelinecrypto.com",
-        "type": "domain",
-        "wss": true,
-        "netid": 8762,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
-        "name": "swapscope-seed",
-        "host": "seed02.swapscope.net",
-        "type": "domain",
-        "wss": true,
-        "netid": 8762,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
-        "name": "bluefren-seed",
-        "host": "defi.bluefren.net",
-        "type": "domain",
-        "wss": false,
-        "netid": 8762,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
         "name": "seed-kmdefi-2",
         "host": "seed02.kmdefi.net",
         "type": "domain",
@@ -50,6 +14,42 @@
     {
         "name": "seed-kmdefi-4",
         "host": "seed04.kmdefi.net",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "ringcoin-seed1",
+        "host": "peer1.rincoin.online",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "cheetah-seed",
+        "host": "mm2seed.shorelinecrypto.com",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "swapscope-seed",
+        "host": "seed02.swapscope.net",
         "type": "domain",
         "wss": true,
         "netid": 8762,
