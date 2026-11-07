@@ -681,7 +681,8 @@
         "1792993807": "offline",
         "1793203949": "online",
         "1793726278": "offline",
-        "1793906931": "online"
+        "1793906931": "online",
+        "1794089346": "offline"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1792993807": "online",
@@ -2855,14 +2856,40 @@
       "1792993807": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum-flc.hashboard.space:50001": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50004": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        }
+      },
       "electrum-flc.hashboard.space:50001": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794089346": "offline"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794089346": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794089346": "offline"
       },
       "electrum.myfloki.com:50001": {
         "1792993807": "online"
@@ -2880,14 +2907,40 @@
       "1792993807": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum-flc.hashboard.space:50001": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50004": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        }
+      },
       "electrum-flc.hashboard.space:50001": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794089346": "offline"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794089346": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794089346": "offline"
       },
       "electrum.myfloki.com:50001": {
         "1792993807": "online"
@@ -3398,7 +3451,8 @@
         "1792993807": "offline"
       },
       "https://lcd.nyancat.irisnet.org": {
-        "1793625583": "online"
+        "1793625583": "online",
+        "1794089346": "offline"
       }
     }
   },
@@ -5285,15 +5339,18 @@
       },
       "electrum.pepeblocks.com:50001": {
         "1792993807": "offline",
-        "1793312302": "online"
+        "1793312302": "online",
+        "1794089346": "offline"
       },
       "electrum.pepeblocks.com:50002": {
         "1792993807": "offline",
-        "1793312302": "online"
+        "1793312302": "online",
+        "1794089346": "offline"
       },
       "electrum.pepeblocks.com:50004": {
         "1792993807": "offline",
-        "1793312302": "online"
+        "1793312302": "online",
+        "1794089346": "offline"
       }
     }
   },
@@ -6011,7 +6068,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
-        "1792993807": "offline"
+        "1792993807": "offline",
+        "1794089346": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1792993807": "online"
@@ -6300,7 +6358,8 @@
         "1793516861": "online",
         "1793625583": "offline",
         "1793726278": "online",
-        "1793906931": "offline"
+        "1793906931": "offline",
+        "1794089346": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1792993807": "offline",
@@ -6315,7 +6374,8 @@
         "1793516861": "online",
         "1793625583": "offline",
         "1793726278": "online",
-        "1793906931": "offline"
+        "1793906931": "offline",
+        "1794089346": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793026562": "online",
@@ -6516,7 +6576,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
-        "1792993807": "offline"
+        "1792993807": "offline",
+        "1794089346": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1792993807": "online"
