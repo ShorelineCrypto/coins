@@ -58,5 +58,29 @@
                 "email": ""
             }
         ]
+    },
+    {
+        "name": "seed-netid-1",
+        "host": "seed01.netid8762.fans",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "seed-netid-2",
+        "host": "seed02.netid8762.fans",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
     }
 ]

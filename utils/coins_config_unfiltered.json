@@ -1812,13 +1812,10 @@
         "parent_coin": "IRIS",
         "rpc_urls": [
             {
-                "url": "https://iris-rpc.publicnode.com"
+                "url": "https://mainnet-iris-rpc.konsortech.xyz"
             },
             {
-                "url": "https://rpc.cosmos.directory/irisnet"
-            },
-            {
-                "url": "https://rpc.irishub-1.irisnet.org"
+                "url": "https://rpc-iris.keplr.app"
             }
         ],
         "explorer_block_url": "block/",
@@ -2187,6 +2184,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "avalanche",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -3782,6 +3780,7 @@
         "txfee": 1000,
         "segwit": false,
         "fork_id": "0x40",
+        "signature_version": "fork_id",
         "address_format": {
             "format": "cashaddress",
             "network": "bitcoincash"
@@ -4524,15 +4523,6 @@
         },
         "electrum": [
             {
-                "url": "bit-e.minethepla.net:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -4565,6 +4555,24 @@
                 "contact": [
                     {
                         "discord": "nucash"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
                     }
                 ]
             }
@@ -8477,11 +8485,6 @@
         "protocol": {
             "type": "UTXO"
         },
-        "utxo_merge_params": {
-            "merge_at": 50,
-            "check_every": 1000,
-            "max_merge_at_once": 40
-        },
         "derivation_path": "m/44'/682'",
         "links": {
             "github": "https://github.com/ShorelineCrypto/cheetahcoin",
@@ -9231,8 +9234,6 @@
         "pubtype": 28,
         "p2shtype": 45,
         "wiftype": 176,
-        "decimals": 8,
-        "signature_version": "base",
         "txfee": 10000,
         "segwit": true,
         "bech32_hrp": "crnc",
@@ -12003,7 +12004,7 @@
         "name": "Doriancoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "DSV",
         "explorer_url": "https://blocks.doriancoin.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -12125,7 +12126,7 @@
         "name": "Doriancoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "DSV",
         "explorer_url": "https://blocks.doriancoin.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -13956,6 +13957,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "op_stack",
         "estimate_gas_mult": 1.3,
         "swap_contract_address": "0x4C54808911817402a0871c3C93D8790c19CAe75b",
         "fallback_swap_contract": "0x4C54808911817402a0871c3C93D8790c19CAe75b",
@@ -20688,8 +20690,14 @@
             }
         },
         "derivation_path": "m/44'/118'",
-        "rpc_urls": [],
-        "delisted": true,
+        "rpc_urls": [
+            {
+                "url": "https://mainnet-iris-rpc.konsortech.xyz"
+            },
+            {
+                "url": "https://rpc-iris.keplr.app"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "IRIS-BEP20": {
@@ -21127,7 +21135,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.kcnxp.com:51002",
+                "url": "electrum1.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21139,7 +21147,7 @@
                 ]
             },
             {
-                "url": "electrum1.kcnxp.com:51004",
+                "url": "electrum1.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21151,7 +21159,7 @@
                 ]
             },
             {
-                "url": "electrum2.kcnxp.com:51002",
+                "url": "electrum2.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21163,7 +21171,7 @@
                 ]
             },
             {
-                "url": "electrum2.kcnxp.com:51004",
+                "url": "electrum2.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21175,7 +21183,7 @@
                 ]
             },
             {
-                "url": "electrum3.kcnxp.com:51002",
+                "url": "electrum3.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21187,7 +21195,7 @@
                 ]
             },
             {
-                "url": "electrum3.kcnxp.com:51004",
+                "url": "electrum3.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21199,7 +21207,7 @@
                 ]
             },
             {
-                "url": "electrum4.kcnxp.com:51002",
+                "url": "electrum4.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21211,7 +21219,7 @@
                 ]
             },
             {
-                "url": "electrum4.kcnxp.com:51004",
+                "url": "electrum4.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21223,7 +21231,7 @@
                 ]
             },
             {
-                "url": "electrum5.kcnxp.com:51002",
+                "url": "electrum5.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21235,7 +21243,7 @@
                 ]
             },
             {
-                "url": "electrum5.kcnxp.com:51004",
+                "url": "electrum5.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21292,7 +21300,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.kcnxp.com:51002",
+                "url": "electrum1.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21304,7 +21312,7 @@
                 ]
             },
             {
-                "url": "electrum1.kcnxp.com:51004",
+                "url": "electrum1.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21316,7 +21324,7 @@
                 ]
             },
             {
-                "url": "electrum2.kcnxp.com:51002",
+                "url": "electrum2.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21328,7 +21336,7 @@
                 ]
             },
             {
-                "url": "electrum2.kcnxp.com:51004",
+                "url": "electrum2.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21340,7 +21348,7 @@
                 ]
             },
             {
-                "url": "electrum3.kcnxp.com:51002",
+                "url": "electrum3.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21352,7 +21360,7 @@
                 ]
             },
             {
-                "url": "electrum3.kcnxp.com:51004",
+                "url": "electrum3.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21364,7 +21372,7 @@
                 ]
             },
             {
-                "url": "electrum4.kcnxp.com:51002",
+                "url": "electrum4.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21376,7 +21384,7 @@
                 ]
             },
             {
-                "url": "electrum4.kcnxp.com:51004",
+                "url": "electrum4.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -21388,7 +21396,7 @@
                 ]
             },
             {
-                "url": "electrum5.kcnxp.com:51002",
+                "url": "electrum5.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -21400,7 +21408,7 @@
                 ]
             },
             {
-                "url": "electrum5.kcnxp.com:51004",
+                "url": "electrum5.kcnxp.com:5104",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22737,7 +22745,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.lcnxp.com:52002",
+                "url": "electrum1.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22749,7 +22757,7 @@
                 ]
             },
             {
-                "url": "electrum1.lcnxp.com:52004",
+                "url": "electrum1.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22761,7 +22769,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
+                "url": "electrum2.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22773,7 +22781,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52004",
+                "url": "electrum2.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22785,7 +22793,7 @@
                 ]
             },
             {
-                "url": "electrum3.lcnxp.com:52002",
+                "url": "electrum3.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22797,7 +22805,7 @@
                 ]
             },
             {
-                "url": "electrum3.lcnxp.com:52004",
+                "url": "electrum3.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22809,7 +22817,7 @@
                 ]
             },
             {
-                "url": "electrum4.lcnxp.com:52002",
+                "url": "electrum4.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22821,7 +22829,7 @@
                 ]
             },
             {
-                "url": "electrum4.lcnxp.com:52004",
+                "url": "electrum4.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22833,7 +22841,7 @@
                 ]
             },
             {
-                "url": "electrum5.lcnxp.com:52002",
+                "url": "electrum5.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22845,7 +22853,7 @@
                 ]
             },
             {
-                "url": "electrum5.lcnxp.com:52004",
+                "url": "electrum5.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22902,7 +22910,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.lcnxp.com:52002",
+                "url": "electrum1.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22914,7 +22922,7 @@
                 ]
             },
             {
-                "url": "electrum1.lcnxp.com:52004",
+                "url": "electrum1.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22926,7 +22934,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
+                "url": "electrum2.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22938,7 +22946,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52004",
+                "url": "electrum2.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22950,7 +22958,7 @@
                 ]
             },
             {
-                "url": "electrum3.lcnxp.com:52002",
+                "url": "electrum3.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22962,7 +22970,7 @@
                 ]
             },
             {
-                "url": "electrum3.lcnxp.com:52004",
+                "url": "electrum3.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22974,7 +22982,7 @@
                 ]
             },
             {
-                "url": "electrum4.lcnxp.com:52002",
+                "url": "electrum4.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22986,7 +22994,7 @@
                 ]
             },
             {
-                "url": "electrum4.lcnxp.com:52004",
+                "url": "electrum4.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -22998,7 +23006,7 @@
                 ]
             },
             {
-                "url": "electrum5.lcnxp.com:52002",
+                "url": "electrum5.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -23010,7 +23018,7 @@
                 ]
             },
             {
-                "url": "electrum5.lcnxp.com:52004",
+                "url": "electrum5.lcnxp.com:5204",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -25030,8 +25038,6 @@
         "pubtype": 50,
         "p2shtype": 9,
         "wiftype": 244,
-        "decimals": 8,
-        "signature_version": "base",
         "txfee": 10000,
         "segwit": true,
         "bech32_hrp": "maza",
@@ -26331,6 +26337,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "mantle",
         "links": {
             "homepage": "https://group.mantle.xyz"
         },
@@ -26384,6 +26391,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "monad",
         "estimate_gas_mult": 1.3,
         "links": {
             "homepage": "https://monad.xyz"
@@ -26391,10 +26399,6 @@
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
-            {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
             {
                 "url": "https://infra.originstake.com/monad/evm"
             },
@@ -26449,10 +26453,6 @@
             "homepage": "https://monacoin.org"
         },
         "electrum": [
-            {
-                "url": "133.167.67.203:50001",
-                "protocol": "TCP"
-            },
             {
                 "url": "electrumx.tamami-foundation.org:50001",
                 "protocol": "TCP"
@@ -26510,10 +26510,6 @@
             "homepage": "https://monacoin.org"
         },
         "electrum": [
-            {
-                "url": "133.167.67.203:50001",
-                "protocol": "TCP"
-            },
             {
                 "url": "electrumx.tamami-foundation.org:50001",
                 "protocol": "TCP"
@@ -26834,14 +26830,15 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/1284"
-            },
-            {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
             },
             {
                 "url": "https://moonbeam.api.pocket.network"
+            },
+            {
+                "url": "https://moonbeam.drpc.org",
+                "ws_url": "wss://moonbeam.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -27044,11 +27041,6 @@
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
-        },
-        "utxo_merge_params": {
-            "merge_at": 50,
-            "check_every": 1000,
-            "max_merge_at_once": 40
         },
         "derivation_path": "m/44'/681'",
         "links": {
@@ -31815,33 +31807,6 @@
         "derivation_path": "m/44'/143'",
         "electrum": [
             {
-                "url": "ric-ex-two.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
                 "contact": [
@@ -31929,33 +31894,6 @@
         },
         "derivation_path": "m/84'/143'",
         "electrum": [
-            {
-                "url": "ric-ex-two.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
@@ -36572,8 +36510,44 @@
         },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:10077",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:11077",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            },
+            {
+                "url": "1.eu.tokel.electrum.dexstats.info:9077",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "chmex@dexstats.info"
+                    },
+                    {
+                        "discord": "chmex#0686"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "TON-ERC20": {
@@ -38194,12 +38168,32 @@
         },
         "electrum": [
             {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "uno-ex-one.ewmci.online:50001",
                 "protocol": "TCP"
             },
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -38835,10 +38829,6 @@
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
-            {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
             {
                 "url": "https://infra.originstake.com/monad/evm"
             },
@@ -39690,10 +39680,6 @@
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
             {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
-            {
                 "url": "https://infra.originstake.com/monad/evm"
             },
             {
@@ -40067,10 +40053,6 @@
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
-            {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
             {
                 "url": "https://infra.originstake.com/monad/evm"
             },
@@ -41989,10 +41971,6 @@
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
             {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
-            {
                 "url": "https://infra.originstake.com/monad/evm"
             },
             {
@@ -43000,7 +42978,6 @@
         "dust": 100000,
         "mm2": 1,
         "segwit": true,
-        "signature_version": "witness_v0",
         "bech32_hrp": "ep",
         "address_format": {
             "format": "segwit"
@@ -43662,6 +43639,7 @@
         "txfee": 10,
         "segwit": false,
         "fork_id": "0x40",
+        "signature_version": "fork_id",
         "address_format": {
             "format": "cashaddress",
             "network": "ergon"
@@ -44135,8 +44113,32 @@
             "github": "https://github.com/WikiMin3R/Vanillacash",
             "homepage": "https://vanillacash.org"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrumx1.vanillacash.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx1.vanillacash.info:50013",
+                "protocol": "WSS"
+            },
+            {
+                "url": "electrumx2.vanillacash.info:50011",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx2.vanillacash.info:50012",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrumx2.vanillacash.info:50013",
+                "protocol": "WSS"
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "XVC-BEP20": {
@@ -44822,6 +44824,166 @@
             {
                 "url": "https://mainnet.gateway.tenderly.co",
                 "ws_url": "wss://mainnet.gateway.tenderly.co"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "YTN": {
+        "coin": "YTN",
+        "type": "UTXO",
+        "name": "Yenten",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.yentencoin.info/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Yenten Signed Message:\n",
+        "fname": "Yenten",
+        "rpcport": 9982,
+        "pubtype": 78,
+        "p2shtype": 10,
+        "wiftype": 123,
+        "txfee": 10000,
+        "dust": 5460,
+        "segwit": true,
+        "bech32_hrp": "ytn",
+        "mm2": 1,
+        "required_confirmations": 2,
+        "avg_blocktime": 120,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/9981'",
+        "links": {
+            "github": "https://github.com/yentencoin/yenten",
+            "homepage": "https://yentencoin.info"
+        },
+        "electrum": [
+            {
+                "url": "peer1.rincoin.online:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer1.rincoin.online:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer2.rincoin.online:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer2.rincoin.online:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer4.rincoin.online:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer4.rincoin.online:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer5.rincoin.online:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer5.rincoin.online:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer6.rincoin.online:51002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
+            },
+            {
+                "url": "peer6.rincoin.online:51004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "takologi@proton.me"
+                    },
+                    {
+                        "discord": "tk.lg"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -47145,6 +47307,7 @@
         "estimate_fee_blocks": 2,
         "segwit": false,
         "fork_id": "0x40",
+        "signature_version": "fork_id",
         "address_format": {
             "format": "cashaddress",
             "network": "bchtest"
@@ -47279,6 +47442,30 @@
                 "contact": [
                     {
                         "email": "wam.coin.official@proton.me"
+                    }
+                ]
+            },
+            {
+                "url": "wam.zcd.lol:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cup"
+                    },
+                    {
+                        "email": "bobbyning@foxmail.com"
+                    }
+                ]
+            },
+            {
+                "url": "wam.zcd.lol:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "cup"
+                    },
+                    {
+                        "email": "bobbyning@foxmail.com"
                     }
                 ]
             }
@@ -47516,6 +47703,7 @@
         "estimate_fee_blocks": 2,
         "segwit": false,
         "fork_id": "0x40",
+        "signature_version": "fork_id",
         "address_format": {
             "format": "cashaddress",
             "network": "ecash"
@@ -47694,8 +47882,11 @@
             }
         },
         "derivation_path": "m/44'/118'",
-        "rpc_urls": [],
-        "delisted": true,
+        "rpc_urls": [
+            {
+                "url": "https://lcd.nyancat.irisnet.org"
+            }
+        ],
         "explorer_block_url": "#/blocks/"
     },
     "NUCLEUSTEST": {
@@ -47760,7 +47951,7 @@
         "parent_coin": "IRISTEST",
         "rpc_urls": [
             {
-                "url": "http://34.80.202.172:26657"
+                "url": "https://lcd.nyancat.irisnet.org"
             }
         ],
         "explorer_block_url": "#/blocks/"
@@ -48069,7 +48260,7 @@
         "name": "Tarcoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "_TAR",
         "explorer_url": "https://explorer.tarcoin.org/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -48121,7 +48312,7 @@
         "name": "Tarcoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "_TAR",
         "explorer_url": "https://explorer.tarcoin.org/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
