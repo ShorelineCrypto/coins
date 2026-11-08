@@ -3547,6 +3547,11 @@
     "protocol": {
       "type": "UTXO"
     },
+    "utxo_merge_params": {
+      "merge_at": 50,
+      "check_every": 1200,
+      "max_merge_at_once": 40
+    },
     "derivation_path": "m/44'/5'",
     "trezor_coin": "Dash",
     "links": {
@@ -8238,6 +8243,11 @@
     "protocol": {
       "type": "UTXO"
     },
+    "utxo_merge_params": {
+      "merge_at": 50,
+      "check_every": 1200,
+      "max_merge_at_once": 40
+    },
     "derivation_path": "m/44'/2'",
     "trezor_coin": "Litecoin",
     "links": {
@@ -8268,6 +8278,11 @@
     "avg_blocktime": 150,
     "protocol": {
       "type": "UTXO"
+    },
+    "utxo_merge_params": {
+      "merge_at": 50,
+      "check_every": 1200,
+      "max_merge_at_once": 40
     },
     "derivation_path": "m/84'/2'",
     "trezor_coin": "Litecoin",
