@@ -8755,6 +8755,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1200,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/5'",
         "trezor_coin": "Dash",
         "links": {
@@ -8986,6 +8991,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/20'",
         "trezor_coin": "DigiByte",
         "links": {
@@ -9055,6 +9065,11 @@
         "avg_blocktime": 15,
         "protocol": {
             "type": "UTXO"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/84'/20'",
         "trezor_coin": "DigiByte",
@@ -13044,6 +13059,11 @@
         "avg_blocktime": 300,
         "protocol": {
             "type": "UTXO"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/44'/136'",
         "trezor_coin": "Firo",
@@ -18450,6 +18470,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
         "links": {
@@ -20369,6 +20394,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1200,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/2'",
         "trezor_coin": "Litecoin",
         "links": {
@@ -20439,6 +20469,11 @@
         "avg_blocktime": 150,
         "protocol": {
             "type": "UTXO"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1200,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/84'/2'",
         "trezor_coin": "Litecoin",
@@ -24866,6 +24901,11 @@
         "protocol": {
             "type": "UTXO",
             "chain_variant": "PIVX"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/44'/119'",
         "electrum": [
@@ -30534,9 +30574,6 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
-            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -33580,9 +33617,6 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
-            {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
