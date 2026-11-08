@@ -8512,6 +8512,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1000,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/682'",
         "links": {
             "github": "https://github.com/ShorelineCrypto/cheetahcoin",
@@ -10309,6 +10314,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1200,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/5'",
         "trezor_coin": "Dash",
         "links": {
@@ -10588,6 +10598,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/20'",
         "trezor_coin": "DigiByte",
         "links": {
@@ -10705,6 +10720,11 @@
         "avg_blocktime": 15,
         "protocol": {
             "type": "UTXO"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/84'/20'",
         "trezor_coin": "DigiByte",
@@ -15494,6 +15514,11 @@
         "avg_blocktime": 300,
         "protocol": {
             "type": "UTXO"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/44'/136'",
         "trezor_coin": "Firo",
@@ -21791,6 +21816,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/141'",
         "trezor_coin": "Komodo",
         "links": {
@@ -24079,6 +24109,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1200,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/2'",
         "trezor_coin": "Litecoin",
         "links": {
@@ -24197,6 +24232,11 @@
         "avg_blocktime": 150,
         "protocol": {
             "type": "UTXO"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1200,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/84'/2'",
         "trezor_coin": "Litecoin",
@@ -26994,6 +27034,11 @@
         "protocol": {
             "type": "UTXO"
         },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1000,
+            "max_merge_at_once": 40
+        },
         "derivation_path": "m/44'/681'",
         "links": {
             "github": "https://github.com/ShorelineCrypto/nengcoin",
@@ -29220,6 +29265,11 @@
         "protocol": {
             "type": "UTXO",
             "chain_variant": "PIVX"
+        },
+        "utxo_merge_params": {
+            "merge_at": 50,
+            "check_every": 1100,
+            "max_merge_at_once": 40
         },
         "derivation_path": "m/44'/119'",
         "electrum": [

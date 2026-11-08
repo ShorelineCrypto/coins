@@ -2587,7 +2587,8 @@
         "1792993807": "online"
       },
       "wss://eth.api.pocket.network": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794179393": "offline"
       },
       "wss://eth.drpc.org": {
         "1792993807": "online"
