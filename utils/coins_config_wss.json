@@ -28069,10 +28069,6 @@
         },
         "nodes": [
             {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
-            },
-            {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
             }
@@ -29176,6 +29172,10 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS"
+            },
             {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS"
