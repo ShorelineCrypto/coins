@@ -1293,6 +1293,7 @@
     "p2shtype": 5,
     "wiftype": 128,
     "segwit": true,
+    "sighash_suffix": "0x01324342",
     "bech32_hrp": "bc",
     "txfee": 1000,
     "mm2": 1,
@@ -1304,7 +1305,7 @@
     },
     "derivation_path": "m/44'/0'",
     "links": {
-      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
       "homepage": "https://bitcoin-ii.org"
     }
   },
@@ -1318,6 +1319,7 @@
     "p2shtype": 5,
     "wiftype": 128,
     "segwit": true,
+    "sighash_suffix": "0x01324342",
     "bech32_hrp": "bc",
     "address_format": {
       "format": "segwit"
@@ -1332,8 +1334,65 @@
     },
     "derivation_path": "m/84'/0'",
     "links": {
-      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
       "homepage": "https://bitcoin-ii.org"
+    }
+  },
+  {
+    "coin": "BCA",
+    "name": "bitcoinatom",
+    "fname": "Bitcoin Atom",
+    "rpcport": 7332,
+    "pubtype": 23,
+    "p2shtype": 10,
+    "wiftype": 128,
+    "segwit": true,
+    "fork_id": "0x5D40",
+    "bech32_hrp": "bca",
+    "txfee": 1000,
+    "mm2": 1,
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "required_confirmations": 2,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO",
+      "chain_variant": "BTC"
+    },
+    "derivation_path": "m/44'/185'",
+    "links": {
+      "github": "https://github.com/bitcoin-atom/bitcoin-atom",
+      "homepage": "https://bitcoinatom.io"
+    }
+  },
+  {
+    "coin": "BCA-segwit",
+    "name": "bitcoinatom",
+    "fname": "Bitcoin Atom",
+    "rpcport": 7332,
+    "pubtype": 23,
+    "p2shtype": 10,
+    "wiftype": 128,
+    "segwit": true,
+    "fork_id": "0x5D40",
+    "signature_version": "witness_v0",
+    "bech32_hrp": "bca",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "BCA",
+    "txfee": 1000,
+    "mm2": 1,
+    "sign_message_prefix": "Bitcoin Signed Message:\n",
+    "required_confirmations": 2,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO",
+      "chain_variant": "BTC"
+    },
+    "derivation_path": "m/84'/185'",
+    "links": {
+      "github": "https://github.com/bitcoin-atom/bitcoin-atom",
+      "homepage": "https://bitcoinatom.io"
     }
   },
   {
@@ -1385,31 +1444,6 @@
     "links": {
       "github": "https://github.com/Bitcoin-ABC/bitcoin-abc",
       "homepage": "https://www.bitcoincash.org"
-    }
-  },
-  {
-    "coin": "JKC",
-    "name": "junkcoin",
-    "fname": "JunkCoin",
-    "sign_message_prefix": "JunkCoin Signed Message:\n",
-    "rpcport": 9771,
-    "pubtype": 16,
-    "p2shtype": 5,
-    "wiftype": 144,
-    "decimals": 8,
-    "txfee": 100000,
-    "dust": 100000,
-    "mm2": 1,
-    "required_confirmations": 3,
-    "avg_blocktime": 60,
-    "protocol": {
-      "type": "UTXO"
-    },
-    "mature_confirmations": 70,
-    "derivation_path": "m/44'/2013'",
-    "links": {
-      "github": "https://github.com/Junkcoin-Foundation/junkcoin-core",
-      "homepage": "https://junk-coin.com"
     }
   },
   {
@@ -2877,7 +2911,7 @@
     "wiftype": 128,
     "txfee": 40000,
     "mm2": 1,
-    "required_confirmations": 2,
+    "required_confirmations": 3,
     "avg_blocktime": 120,
     "protocol": {
       "type": "UTXO"
@@ -5255,7 +5289,7 @@
     "txfee": 1000,
     "mm2": 1,
     "required_confirmations": 1,
-    "avg_blocktime": 300,
+    "avg_blocktime": 150,
     "protocol": {
       "type": "UTXO"
     },
@@ -7062,7 +7096,7 @@
         "decimals": 6,
         "denom": "uiris",
         "account_prefix": "iaa",
-        "chain_id": "irishub-1",
+        "chain_id": "irishub-2",
         "chain_registry_name": "irishub",
         "gas_price": 0.5,
         "ibc_channels": {
@@ -7134,6 +7168,31 @@
       "erc20_payment": 110000,
       "erc20_receiver_spend": 85000,
       "erc20_sender_refund": 85000
+    }
+  },
+  {
+    "coin": "JKC",
+    "name": "junkcoin",
+    "fname": "JunkCoin",
+    "sign_message_prefix": "JunkCoin Signed Message:\n",
+    "rpcport": 9771,
+    "pubtype": 16,
+    "p2shtype": 5,
+    "wiftype": 144,
+    "decimals": 8,
+    "txfee": 100000,
+    "dust": 100000,
+    "mm2": 1,
+    "required_confirmations": 3,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "mature_confirmations": 70,
+    "derivation_path": "m/44'/2013'",
+    "links": {
+      "github": "https://github.com/Junkcoin-Foundation/junkcoin-core",
+      "homepage": "https://junk-coin.com"
     }
   },
   {
@@ -9252,7 +9311,7 @@
     "wiftype": 176,
     "txfee": 200000,
     "mm2": 1,
-    "required_confirmations": 2,
+    "required_confirmations": 5,
     "avg_blocktime": 60,
     "protocol": {
       "type": "UTXO"
@@ -14812,6 +14871,7 @@
     "dust": 100000,
     "mm2": 1,
     "segwit": true,
+    "signature_version": "witness_v0",
     "bech32_hrp": "ep",
     "address_format": {
       "format": "segwit"
