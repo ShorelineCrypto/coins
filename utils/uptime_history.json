@@ -750,14 +750,16 @@
       "bitnet.outsidethebox.top:50002": {
         "1792993807": "offline",
         "1793717199": "online",
-        "1794656334": "offline"
+        "1794656334": "offline",
+        "1794733077": "online"
       },
       "bitnet.outsidethebox.top:50004": {
         "1792993807": "offline",
         "1793625583": "online",
         "1794100527": "offline",
         "1794104145": "online",
-        "1794471816": "offline"
+        "1794471816": "offline",
+        "1794724948": "online"
       }
     }
   },
@@ -916,6 +918,22 @@
       "1792993807": "online"
     },
     "by_server": {
+      "0xrpc.io:50002": {
+        "1794807245": "offline",
+        "1794816829": "online"
+      },
+      "0xrpc.io:50004": {
+        "1794807245": "offline"
+      },
+      "blackie.c3-soft.com:57001": {
+        "1794807245": "online"
+      },
+      "blackie.c3-soft.com:57002": {
+        "1794807245": "online"
+      },
+      "blackie.c3-soft.com:57004": {
+        "1794807245": "online"
+      },
       "btc.electrum1.cipig.net:10000": {
         "1792993807": "online"
       },
@@ -941,6 +959,22 @@
       "1792993807": "online"
     },
     "by_server": {
+      "0xrpc.io:50002": {
+        "1794807245": "offline",
+        "1794816829": "online"
+      },
+      "0xrpc.io:50004": {
+        "1794807245": "offline"
+      },
+      "blackie.c3-soft.com:57001": {
+        "1794807245": "online"
+      },
+      "blackie.c3-soft.com:57002": {
+        "1794807245": "online"
+      },
+      "blackie.c3-soft.com:57004": {
+        "1794807245": "online"
+      },
       "btc.electrum1.cipig.net:10000": {
         "1792993807": "online"
       },
@@ -3160,7 +3194,8 @@
       "electrumx2.runonflux.io:50001": {
         "1792993807": "offline",
         "1793026562": "online",
-        "1793553574": "offline"
+        "1793553574": "offline",
+        "1794724948": "online"
       },
       "electrumx2.runonflux.io:50004": {
         "1792993807": "offline"
@@ -3312,13 +3347,15 @@
         "1792993807": "online"
       },
       "https://moonbeam.drpc.org": {
-        "1793625583": "online"
+        "1793625583": "online",
+        "1794724948": "offline"
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1792993807": "online"
       },
       "wss://moonbeam.drpc.org": {
-        "1793625583": "online"
+        "1793625583": "online",
+        "1794724948": "offline"
       }
     }
   },
@@ -3593,7 +3630,8 @@
       "https://mainnet-iris-rpc.konsortech.xyz": {
         "1793625583": "online",
         "1794471816": "offline",
-        "1794523385": "online"
+        "1794523385": "online",
+        "1794807245": "offline"
       },
       "https://rpc-iris.keplr.app": {
         "1793625583": "online"
@@ -3618,7 +3656,9 @@
       "https://lcd.nyancat.irisnet.org": {
         "1793625583": "online",
         "1794100527": "offline",
-        "1794236238": "online"
+        "1794236238": "online",
+        "1794807245": "offline",
+        "1794828354": "online"
       }
     }
   },
@@ -4578,6 +4618,12 @@
       "1792993807": "online"
     },
     "by_server": {
+      "0xrpc.io:60002": {
+        "1794807245": "online"
+      },
+      "0xrpc.io:60004": {
+        "1794807245": "online"
+      },
       "ltc.electrum1.cipig.net:10063": {
         "1792993807": "online"
       },
@@ -4603,6 +4649,12 @@
       "1792993807": "online"
     },
     "by_server": {
+      "0xrpc.io:60002": {
+        "1794807245": "online"
+      },
+      "0xrpc.io:60004": {
+        "1794807245": "online"
+      },
       "ltc.electrum1.cipig.net:10063": {
         "1792993807": "online"
       },
@@ -5538,11 +5590,13 @@
   },
   "PINK": {
     "all": {
-      "1792993807": "online"
+      "1792993807": "online",
+      "1794724948": "offline"
     },
     "by_server": {
       "pink-one.ewm-cx.net:50001": {
-        "1792993807": "online"
+        "1792993807": "online",
+        "1794724948": "offline"
       },
       "pink-two.ewm-cx.net:50001": {
         "1792993807": "offline"
@@ -5712,6 +5766,32 @@
       },
       "qtum.electrum2.cipig.net:30050": {
         "1792993807": "online"
+      }
+    }
+  },
+  "QVNC": {
+    "all": {
+      "1794733077": "online"
+    },
+    "by_server": {
+      "seed1.quavence.com:50001": {
+        "1794733077": "online"
+      },
+      "seed1.quavence.com:50002": {
+        "1794733077": "online"
+      },
+      "seed1.quavence.com:50004": {
+        "1794733077": "online"
+      },
+      "seed2.quavence.com:50001": {
+        "1794733077": "online"
+      },
+      "seed2.quavence.com:50002": {
+        "1794733077": "online"
+      },
+      "seed2.quavence.com:50004": {
+        "1794733077": "offline",
+        "1794737986": "online"
       }
     }
   },
@@ -6279,7 +6359,10 @@
         "1794293453": "online"
       },
       "wss://bittensor.web3cdn.rest": {
-        "1794293453": "offline"
+        "1794293453": "offline",
+        "1794724948": "online",
+        "1794729603": "offline",
+        "1794828354": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794293453": "online"
@@ -6578,7 +6661,10 @@
         "1794359738": "offline",
         "1794380539": "online",
         "1794616783": "offline",
-        "1794657132": "online"
+        "1794657132": "online",
+        "1794733077": "offline",
+        "1794816829": "online",
+        "1794828354": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1792993807": "offline",
@@ -6603,7 +6689,10 @@
         "1794359738": "offline",
         "1794380539": "online",
         "1794616783": "offline",
-        "1794657132": "online"
+        "1794657132": "online",
+        "1794733077": "offline",
+        "1794816829": "online",
+        "1794828354": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793026562": "online",
@@ -6766,14 +6855,14 @@
         "1793516861": "offline",
         "1793625583": "online",
         "1794656334": "offline",
-        "1794671105": "online"
+        "1794724948": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
         "1792993807": "online",
         "1793516861": "offline",
         "1793625583": "online",
         "1794656334": "offline",
-        "1794671105": "online"
+        "1794724948": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1792993807": "online"
@@ -6831,7 +6920,10 @@
         "1794293453": "online"
       },
       "wss://bittensor.web3cdn.rest": {
-        "1794293453": "offline"
+        "1794293453": "offline",
+        "1794724948": "online",
+        "1794729603": "offline",
+        "1794828354": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794293453": "online"
@@ -7496,6 +7588,15 @@
       },
       "electrumx-dex-02.neuraiexplorer.com:50002": {
         "1792993807": "offline"
+      },
+      "electrumx1.neurai.top:50001": {
+        "1794828354": "online"
+      },
+      "electrumx1.neurai.top:50002": {
+        "1794828354": "online"
+      },
+      "electrumx1.neurai.top:50004": {
+        "1794828354": "online"
       },
       "electrumx3.neurai.top:50001": {
         "1792993807": "online"
